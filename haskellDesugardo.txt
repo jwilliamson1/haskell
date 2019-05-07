@@ -1,0 +1,17 @@
+main world0 = (let ((), world1) = putStr "What is your name?" world0)
+       (let (in1, world2) = readLn world1)
+       (  ( (let ((), world3) \a -> putStr "How old are you?" world2)
+       ( let (in2, world4) = readLn world3) )
+       (let ((), world5) = print (in1,in2) world4 ) 
+	   
+main world0 = ( (let (int1, world1) = readLn world0) 
+				( let (res1) = int1 * 2 )
+				  (let (lifted) = (int, world1)))
+				  
+main world0 = ((\a world1 -> ((a * 2), world1)) readLn world0)
+
+main world0 = ( (let (int1, world1) = readLn)
+				( (let world2 = (when (a>=0) (let (worlda, raised) = ((), worlda))))
+				(let world3 = print "a is a negative number, world2)))
+				
+liftM f action world0 = ((/x, world1 -> (world1, a)) action world0)

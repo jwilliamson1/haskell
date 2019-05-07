@@ -1,0 +1,13708 @@
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+G 
+N 
+U 
+ V
+Ge
+Er
+Ns
+Ei
+Ro
+An
+L 
+ 3
+P,
+U 
+B2
+L9
+I 
+CJ
+ u
+Ln
+Ie
+C 
+E2
+N0
+S0
+E7
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+  
+Eo
+vf
+e 
+rt
+yh
+oi
+ns
+e 
+ l
+ii
+sc
+ e
+pn
+es
+re
+m 
+id
+to
+tc
+eu
+dm
+ e
+tn
+ot
+ ,
+c 
+ob
+pu
+yt
+  
+ac
+nh
+da
+ n
+dg
+ii
+sn
+tg
+r 
+ii
+bt
+u 
+ti
+es
+  
+vn
+eo
+rt
+b 
+aa
+tl
+il
+mo
+ w
+ce
+od
+p.
+ies
+                            Preamble
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+ t
+ o
+T 
+ht
+ea
+ k
+le
+i 
+ca
+ew
+na
+sy
+e 
+sy
+ o
+fu
+or
+r 
+ f
+mr
+oe
+se
+td
+ o
+sm
+o 
+ft
+to
+w 
+as
+rh
+ea
+ r
+ae
+n 
+da
+ n
+od
+t 
+hc
+eh
+ra
+ n
+pg
+re
+a 
+ct
+th
+ie
+c 
+aw
+lo
+ r
+wk
+os
+r.
+k 
+s 
+ B
+ay
+r 
+ec
+ o
+dn
+et
+sr
+ia
+gs
+nt
+e,
+d
+ts
+hh
+ea
+ r
+Ge
+N 
+Ua
+ n
+Gd
+e 
+nc
+eh
+ra
+an
+lg
+ e
+P 
+ua
+bl
+ll
+i 
+cv
+ e
+Lr
+is
+ci
+eo
+nn
+ss
+e 
+ o
+if
+s 
+ a
+i 
+np
+tr
+eo
+ng
+dr
+ea
+dm
+ -
+t-
+ot
+ o
+g 
+um
+aa
+rk
+ae
+n 
+ts
+eu
+er
+ e
+y 
+oi
+ut
+r 
+ r
+fe
+rm
+ea
+ei
+dn
+os
+m 
+ f
+tr
+oe
+e
+sG
+oN
+fU
+t 
+wG
+ae
+rn
+ee
+ r
+fa
+ol
+r 
+ P
+au
+lb
+ll
+ i
+ic
+t 
+sL
+ i
+uc
+se
+en
+rs
+se
+. 
+ f
+ o
+Wr
+e 
+,m
+ o
+ts
+ht
+e 
+ o
+Ff
+r 
+eo
+eu
+ r
+S 
+os
+fo
+tf
+wt
+aw
+ra
+er
+ e
+F;
+o 
+ui
+nt
+d 
+aa
+tp
+ip
+ol
+ni
+,e
+ s
+u 
+sa
+el
+ s
+to
+h 
+et
+o
+ay
+no
+yu
+ r
+o 
+tp
+hr
+eo
+rg
+ r
+wa
+om
+rs
+k,
+  
+rt
+eo
+lo
+e.
+ased this way by its authors.  You can apply it to
+  When we speak of free software, we are referring to freedom, not
+ph
+ra
+iv
+ce
+e 
+.t
+ h
+ e
+O 
+uf
+rr
+ e
+Ge
+ed
+no
+em
+r 
+at
+lo
+  
+Pd
+ui
+bs
+lt
+ir
+ci
+ b
+Lu
+it
+ce
+e 
+nc
+so
+ep
+si
+ e
+as
+r 
+eo
+ f
+d 
+ef
+sr
+ie
+ge
+n 
+es
+do
+ f
+tt
+ow
+ a
+mr
+ae
+k 
+e(
+ a
+sn
+ud
+r 
+ec
+ h
+ta
+hr
+ag
+te
+  
+yf
+oo
+ur
+tw
+ha
+en
+mt
+  
+ii
+ft
+ ,
+y 
+ot
+uh
+ a
+wt
+i 
+sy
+ho
+)u
+, 
+ c
+ta
+hn
+a 
+tc
+ h
+ya
+on
+ug
+ e
+r 
+et
+ch
+ee
+i 
+vs
+eo
+ f
+st
+ow
+ua
+rr
+ce
+e 
+ o
+cr
+o 
+du
+es
+ e
+o 
+rp
+ i
+ce
+ac
+ne
+ s
+g 
+eo
+tf
+  
+ii
+tt
+  
+ii
+fn
+  
+yn
+oe
+uw
+free programs, and that you know you can do these things.
+ t
+ h
+Te
+os
+ e
+p 
+rr
+oi
+tg
+eh
+ct
+ts
+  
+yo
+or
+u 
+ra
+ s
+rk
+ii
+gn
+hg
+t 
+sy
+,o
+ u
+w 
+et
+ o
+n 
+es
+eu
+dr
+ r
+te
+on
+ d
+pe
+rr
+e 
+vt
+eh
+ne
+t 
+ r
+oi
+tg
+hh
+et
+rs
+s.
+  
+f 
+rT
+oh
+me
+ r
+de
+ef
+no
+yr
+ie
+n,
+g 
+ y
+yo
+ou
+u 
+have
+cy
+eo
+ru
+t 
+am
+io
+nd
+ i
+rf
+ey
+s 
+pi
+ot
+n:
+s 
+ir
+be
+is
+lp
+io
+tn
+is
+ei
+sb
+ i
+il
+fi
+ t
+yi
+oe
+us
+  
+dt
+io
+s 
+tr
+re
+is
+bp
+ue
+tc
+et
+  
+ct
+oh
+pe
+i 
+ef
+sr
+ e
+oe
+fd
+ o
+tm
+h 
+eo
+ f
+s 
+oo
+ft
+th
+we
+ar
+rs
+e.
+, or if
+  For example, if you distribute copies of such a program, whether
+gf
+rr
+ae
+te
+id
+so
+ m
+os
+r 
+ t
+fh
+oa
+rt
+  
+ay
+ o
+fu
+e 
+er
+,e
+ c
+ye
+oi
+uv
+ e
+md
+u.
+s 
+t 
+ Y
+po
+au
+s 
+sm
+ u
+os
+nt
+  
+tm
+oa
+ k
+te
+h 
+es
+ u
+rr
+ee
+c 
+it
+ph
+ia
+et
+n 
+tt
+sh
+ e
+ty
+h,
+e 
+ t
+so
+ao
+m,
+e 
+receive
+ok
+rn
+ o
+cw
+a 
+nt
+ h
+ge
+ei
+tr
+  
+tr
+hi
+eg
+ h
+st
+os
+u.
+rce code.  And you must show them these terms so they
+  Developers that use the GNU GPL protect your rights with two steps:
+(g
+1i
+)v
+ i
+an
+sg
+s 
+ey
+ro
+tu
+  
+cl
+oe
+pg
+ya
+rl
+i 
+gp
+he
+tr
+ m
+oi
+ns
+ s
+ti
+ho
+en
+  
+st
+oo
+f 
+tc
+wo
+ap
+ry
+e,
+, 
+ d
+ai
+ns
+dt
+ r
+(i
+2b
+)u
+ t
+oe
+f 
+fa
+en
+rd
+ /
+yo
+or
+u 
+ m
+to
+hd
+ii
+sf
+ y
+L 
+ii
+ct
+e.
+nse
+  For the developers' and authors' protection, the GPL clearly explains
+ta
+hu
+at
+th
+ o
+tr
+hs
+e'
+r 
+es
+ a
+ik
+se
+ ,
+n 
+ot
+ h
+we
+a 
+rG
+rP
+aL
+n 
+tr
+ye
+ q
+fu
+oi
+rr
+ e
+ts
+h 
+it
+sh
+ a
+ft
+r 
+em
+eo
+ d
+si
+of
+fi
+te
+wd
+a 
+rv
+ee
+.r
+ s
+ i
+Fo
+on
+rs
+  
+bb
+oe
+t 
+hm
+ a
+ur
+sk
+ee
+rd
+s 
+'a
+ s
+and
+ca
+hu
+at
+nh
+go
+er
+ds
+, 
+ o
+sf
+o 
+ p
+tr
+he
+av
+ti
+ o
+tu
+hs
+e 
+iv
+re
+ r
+ps
+ri
+oo
+bn
+ls
+e.
+ms will not be attributed erroneously to
+  Some devices are designed to deny users access to install or run
+mc
+oa
+dn
+i 
+fd
+io
+e 
+ds
+ o
+v.
+e 
+r 
+sT
+ih
+oi
+ns
+s 
+ i
+os
+f 
+ f
+tu
+hn
+ed
+ a
+sm
+oe
+fn
+tt
+wa
+al
+rl
+ey
+  
+ii
+nn
+sc
+io
+dm
+ep
+ a
+tt
+hi
+eb
+ml
+,e
+  
+aw
+li
+tt
+hh
+o 
+ut
+gh
+he
+  
+ta
+hi
+em
+  
+mo
+af
+nufacturer
+pp
+ra
+ot
+tt
+ee
+cr
+tn
+i 
+no
+gf
+  
+us
+su
+ec
+rh
+s 
+'a
+ b
+fu
+rs
+ee
+e 
+do
+oc
+mc
+ u
+tr
+os
+  
+ci
+hn
+a 
+nt
+gh
+ee
+  
+ta
+hr
+ee
+ a
+s 
+oo
+ff
+t 
+wp
+ar
+ro
+ed
+.u
+ c
+ t
+Ts
+h 
+ef
+ o
+sr
+y 
+si
+tn
+ed
+mi
+av
+ti
+id
+cu
+als to
+uh
+sa
+ev
+,e
+  
+wd
+he
+is
+ci
+hg
+ n
+ie
+sd
+  
+pt
+rh
+ei
+cs
+i 
+sv
+ee
+lr
+ys
+ i
+wo
+hn
+e 
+ro
+ef
+  
+it
+th
+ e
+i 
+sG
+ P
+mL
+o 
+st
+to
+  
+up
+nr
+ao
+ch
+ci
+eb
+pi
+tt
+a 
+bt
+lh
+ee
+. 
+ p
+ r
+Ta
+hc
+et
+ri
+ec
+fe
+o 
+rf
+eo
+,r
+  
+wt
+eh
+ose
+ps
+rt
+oa
+dn
+ud
+c 
+tr
+se
+.a
+ d
+ y
+I 
+ft
+ o
+s 
+ue
+cx
+ht
+ e
+pn
+rd
+o 
+bt
+lh
+ei
+ms
+s 
+ p
+ar
+ro
+iv
+si
+es
+ i
+so
+un
+b 
+st
+to
+a 
+nt
+th
+io
+as
+le
+l 
+yd
+ o
+im
+na
+ i
+on
+ts
+h 
+ei
+rn
+  
+df
+ou
+mt
+au
+ir
+ne
+s 
+,v
+ e
+wr
+es
+ions
+of the GPL, as needed to protect the freedom of users.
+ S
+ t
+Fa
+it
+ne
+as
+l 
+ls
+yh
+,o
+ u
+el
+vd
+e 
+rn
+yo
+ t
+p 
+ra
+ol
+gl
+ro
+aw
+m 
+ p
+ia
+st
+ e
+tn
+ht
+rs
+e 
+at
+to
+e 
+nr
+ee
+ds
+ t
+cr
+oi
+nc
+st
+t 
+ad
+ne
+tv
+le
+yl
+ o
+bp
+ym
+ e
+sn
+ot
+f 
+ta
+wn
+ad
+r 
+eu
+ s
+pe
+a 
+to
+ef
+nts.
+sa
+ov
+fo
+ti
+wd
+a 
+rt
+eh
+ e
+o 
+ns
+ p
+ge
+ec
+ni
+ea
+rl
+a 
+ld
+-a
+pn
+ug
+re
+pr
+o 
+st
+eh
+ a
+ct
+o 
+mp
+pa
+ut
+te
+en
+rt
+ss
+, 
+ a
+bp
+up
+tl
+ i
+ie
+nd
+  
+tt
+ho
+o 
+sa
+e 
+ f
+tr
+he
+ae
+t 
+ p
+dr
+oo
+,g
+ r
+wa
+em
+  
+wc
+io
+su
+hl
+ d
+to
+mp
+aa
+kt
+ee
+ n
+it
+ts
+  
+ec
+fa
+fn
+en
+co
+tt
+i 
+vb
+ee
+l 
+yu
+ s
+pe
+rd
+o 
+pt
+ro
+i 
+er
+te
+an
+rd
+ye
+.r
+  
+ t
+Th
+oe
+  
+pp
+rr
+eo
+vg
+er
+na
+tm
+  
+tn
+ho
+in
+s-
+,f
+ r
+te
+he
+e.
+ GPL assures that
+  The precise terms and conditions for copying, distribution and
+modification follow.
+                       TERMS AND CONDITIONS
+  0. Definitions.
+  "This License" refers to version 3 of the GNU General Public License.
+ w
+ o
+"r
+Ck
+os
+p,
+y 
+rs
+iu
+gc
+hh
+t 
+"a
+ s
+a 
+ls
+se
+om
+ i
+mc
+eo
+an
+nd
+su
+ c
+ct
+oo
+pr
+y 
+rm
+ia
+gs
+hk
+ts
+-.
+like laws that apply to other kinds of
+  "The Program" refers to any copyrightable work licensed under this
+L"
+ir
+ce
+ec
+ni
+sp
+ei
+.e
+ n
+ t
+Es
+a"
+c 
+hm
+ a
+ly
+i 
+cb
+ee
+n 
+si
+en
+ed
+ i
+iv
+si
+ d
+au
+da
+dl
+rs
+e 
+so
+sr
+e 
+do
+ r
+ag
+sa
+ n
+"i
+yz
+oa
+ut
+"i
+.o
+ n
+ s
+".
+Licensees" and
+  To "modify" a work means to copy from or adapt all or part of the work
+ie
+nx
+ a
+ac
+ t
+f 
+ac
+so
+hp
+iy
+o.
+n 
+  
+rT
+eh
+qe
+u 
+ir
+re
+is
+nu
+gl
+ t
+ci
+on
+pg
+y 
+rw
+io
+gr
+hk
+t 
+ i
+ps
+e 
+rc
+ma
+il
+sl
+se
+id
+o 
+na
+, 
+ "
+om
+to
+hd
+ei
+rf
+ i
+te
+hd
+a 
+nv
+ e
+tr
+hs
+ei
+ o
+mn
+a"
+k 
+io
+nf
+g 
+ t
+oh
+fe
+ an
+earlier work or a work "based on" the earlier work.
+ o
+ n
+A 
+ t
+"h
+ce
+o 
+vP
+er
+ro
+eg
+dr
+ a
+wm
+o.
+rk" means either the unmodified Program or a work based
+  To "propagate" a work means to do anything with it that, without
+pi
+en
+rf
+mr
+ii
+sn
+sg
+ie
+om
+ne
+,n
+ t
+w 
+ou
+un
+ld
+de
+ r
+m 
+aa
+kp
+ep
+ l
+yi
+oc
+ua
+ b
+dl
+ie
+r 
+ec
+co
+tp
+ly
+yr
+ i
+og
+rh
+ t
+s 
+el
+ca
+ow
+n,
+d 
+ae
+rx
+ic
+le
+yp
+ t
+l 
+ie
+ax
+be
+lc
+eu
+ t
+fi
+on
+rg
+ it on a
+cd
+oi
+ms
+pt
+ur
+ti
+eb
+ru
+ t
+oi
+ro
+ n
+m 
+o(
+dw
+ii
+ft
+yh
+i 
+no
+gr
+  
+aw
+ i
+pt
+rh
+io
+vu
+at
+t 
+em
+ o
+cd
+oi
+pf
+yi
+.c
+ a
+ t
+Pi
+ro
+on
+p)
+a,
+g 
+am
+ta
+ik
+oi
+nn
+ g
+i 
+na
+cv
+la
+ui
+dl
+ea
+sb
+ l
+ce
+o 
+pt
+yo
+i 
+nt
+gh
+,e
+public, and in some countries other activities as well.
+ p
+ a
+Tr
+ot
+ i
+"e
+cs
+o 
+nt
+vo
+e 
+ym
+"a
+ k
+ae
+  
+wo
+or
+r 
+kr
+ e
+mc
+ee
+ai
+nv
+se
+  
+ac
+no
+yp
+ i
+ke
+is
+n.
+d 
+  
+oM
+fe
+ r
+pe
+r 
+oi
+pn
+at
+ge
+ar
+ta
+ic
+ot
+ni
+ o
+tn
+h 
+aw
+ti
+ t
+eh
+n 
+aa
+b 
+lu
+es
+se
+ r
+o 
+tt
+hh
+er
+ro
+ugh
+a computer network, with no transfer of a copy, is not conveying.
+ t
+ o
+A 
+nt
+ h
+ie
+n 
+te
+ex
+rt
+ae
+cn
+tt
+i 
+vt
+eh
+ a
+ut
+s 
+ei
+rt
+  
+ii
+nn
+tc
+el
+ru
+fd
+ae
+cs
+e 
+ a
+d 
+ic
+so
+pn
+lv
+ae
+yn
+si
+ e
+"n
+At
+p 
+pa
+rn
+od
+p 
+rp
+ir
+ao
+tm
+ei
+ n
+Le
+en
+gt
+al
+ly
+  
+Nv
+oi
+ts
+ii
+cb
+el
+se
+"
+ft
+ee
+al
+tl
+us
+r 
+et
+ h
+te
+h 
+au
+ts
+ e
+(r
+1 
+)t
+ h
+da
+it
+s 
+pt
+lh
+ae
+yr
+se
+  
+ai
+ns
+  
+an
+po
+p 
+rw
+oa
+pr
+rr
+ia
+an
+tt
+ey
+  
+cf
+oo
+pr
+y 
+rt
+ih
+ge
+h 
+tw
+ o
+nr
+ok
+t 
+i(
+ce
+ex
+,c
+ e
+ap
+nt
+d 
+ t
+(o
+2 
+)t
+he
+ew
+xo
+tr
+ek
+n 
+tu
+ n
+td
+he
+ar
+t 
+ t
+wh
+ai
+rs
+r 
+aL
+ni
+tc
+ie
+en
+ss
+ e
+a,
+r 
+ea
+ n
+pd
+r 
+oh
+vo
+iw
+d 
+et
+do
+) 
+,v
+ i
+te
+hw
+a 
+ta
+  
+lc
+io
+cp
+ey
+n 
+so
+ef
+e 
+st
+ h
+mi
+as
+y 
+ L
+ci
+oc
+ne
+vn
+es
+ye
+ .
+t 
+h 
+eI
+f
+tm
+he
+en
+ u
+i,
+n 
+ta
+e 
+rp
+fr
+ao
+cm
+ei
+ n
+pe
+rn
+et
+s 
+ei
+nt
+te
+sm
+  
+ai
+ n
+l 
+it
+sh
+te
+  
+ol
+fi
+ s
+ut
+s 
+em
+re
+ e
+ct
+os
+m 
+mt
+ah
+ni
+ds
+s 
+ c
+or
+ri
+ t
+oe
+pr
+ti
+io
+on
+n.
+s, such as a
+  1. Source Code.
+  The "source code" for a work means the preferred form of the work
+ff
+oo
+rr
+ m
+m 
+ao
+kf
+i 
+na
+g 
+ w
+mo
+or
+dk
+i.
+fications to it.  "Object code" means any non-source
+  A "Standard Interface" means an interface that either is an official
+si
+tn
+at
+ne
+dr
+af
+ra
+dc
+ e
+ds
+e 
+fs
+ip
+ne
+ec
+di
+ f
+bi
+ye
+ d
+a 
+ f
+ro
+er
+c 
+oa
+g 
+np
+ia
+zr
+et
+di
+ c
+su
+tl
+aa
+nr
+d 
+ap
+rr
+do
+sg
+ r
+ba
+om
+dm
+yi
+,n
+ g
+o 
+rl
+,a
+ n
+ig
+nu
+ a
+tg
+he
+e,
+  
+co
+an
+se
+e 
+ t
+oh
+fa
+t
+is widely used among developers working in that language.
+ t
+ h
+Ta
+hn
+e 
+ t
+"h
+Se
+y 
+sw
+to
+er
+mk
+  
+La
+is
+b 
+ra
+a 
+rw
+ih
+eo
+sl
+"e
+ ,
+o 
+ft
+ h
+aa
+nt
+  
+e(
+xa
+e)
+c 
+ui
+ts
+a 
+bi
+ln
+ec
+ l
+wu
+od
+re
+kd
+  
+ii
+nn
+c 
+lt
+uh
+de
+e 
+ n
+ao
+nr
+ym
+ta
+hl
+i 
+nf
+go
+,r
+ m
+o 
+to
+hf
+er
+pC
+ao
+cm
+kp
+ao
+gn
+ie
+nn
+gt
+ ,
+a 
+ a
+Mn
+ad
+j 
+o(
+rb
+ )
+C 
+os
+me
+pr
+ov
+ne
+es
+n 
+to
+,n
+ l
+by
+u 
+tt
+ o
+w 
+he
+in
+ca
+hb
+ l
+ie
+s 
+ u
+ns
+oe
+t 
+ o
+pf
+a 
+rt
+th
+ e
+o 
+fw
+ o
+tr
+hk
+a 
+tw
+ i
+Mt
+ah
+j 
+ot
+rh
+at
+Mi
+am
+jp
+ol
+re
+ m
+Ce
+on
+mt
+pa
+ot
+ni
+eo
+nn
+t 
+,i
+ s
+o 
+ra
+ v
+ta
+oi
+ l
+ia
+mb
+pl
+le
+e 
+mt
+eo
+n 
+tt
+ h
+ae
+  
+Sp
+tu
+ab
+nl
+di
+ac
+r 
+di
+ n
+I 
+ns
+to
+eu
+rr
+fc
+ae
+c 
+ec
+ o
+fd
+oe
+r 
+ f
+wo
+hr
+im
+c.
+h 
+  
+aA
+n
+"(
+Mk
+ae
+jr
+on
+re
+ l
+C,
+o 
+mw
+pi
+on
+nd
+eo
+nw
+t 
+"s
+,y
+ s
+it
+ne
+ m
+t,
+h 
+ia
+sn
+ d
+c 
+os
+no
+t 
+eo
+xn
+t)
+, 
+ o
+mf
+e 
+at
+nh
+se
+  
+as
+ p
+me
+ac
+ji
+of
+ri
+ c
+e 
+so
+sp
+ee
+nr
+ta
+it
+ai
+ln
+ g
+c 
+os
+my
+ps
+ot
+ne
+em
+nt
+(p
+ir
+fo
+ d
+au
+nc
+ye
+) 
+ t
+oh
+ne
+  
+ww
+ho
+ir
+ck
+h,
+  
+to
+hr
+e 
+ a
+en
+x 
+eo
+cb
+uj
+te
+ac
+bt
+l 
+ec
+ o
+wd
+oe
+r 
+ki
+ n
+rt
+ue
+nr
+sp
+,r
+ e
+ot
+re
+ r
+a 
+ u
+cs
+oe
+md
+p 
+it
+lo
+e 
+rr
+ u
+un
+s 
+ei
+dt
+ .
+to
+  The "Corresponding Source" for a work in object code form means all
+tw
+ho
+er
+ k
+s)
+o 
+ur
+ru
+cn
+e 
+ t
+ch
+oe
+d 
+eo
+ b
+nj
+ee
+ec
+dt
+e 
+dc
+ o
+td
+oe
+  
+ga
+en
+nd
+e 
+rt
+ao
+t 
+em
+,o
+ d
+ii
+nf
+sy
+t 
+at
+lh
+le
+, 
+ w
+ao
+nr
+dk
+ ,
+( 
+fi
+on
+rc
+ l
+au
+nd
+ i
+en
+xg
+e 
+cs
+uc
+tr
+ai
+bp
+lt
+es
+ to
+cS
+oy
+ns
+tt
+re
+om
+l 
+ L
+ti
+hb
+or
+sa
+er
+ i
+ae
+cs
+t,
+i 
+vo
+ir
+t 
+ig
+ee
+sn
+.e
+ r
+ a
+Hl
+o-
+wp
+eu
+vr
+ep
+ro
+,s
+ e
+i 
+tt
+ o
+do
+ol
+es
+s 
+ o
+nr
+o 
+tg
+ e
+in
+ne
+cr
+la
+ul
+dl
+ey
+  
+ta
+hv
+ea
+ i
+wl
+oa
+rb
+kl
+'e
+s 
+free
+pw
+rh
+oi
+gc
+rh
+a 
+ma
+sr
+ e
+w 
+hn
+io
+ct
+h 
+ p
+aa
+rr
+et
+  
+uo
+sf
+e 
+dt
+ h
+ue
+n 
+mw
+oo
+dr
+ik
+f.
+i 
+e 
+dF
+ o
+ir
+n 
+ e
+px
+ea
+rm
+fp
+ol
+re
+m,
+i 
+nC
+go
+ r
+tr
+he
+os
+sp
+eo
+ n
+ad
+ci
+tn
+ig
+v 
+iS
+to
+iu
+er
+sc
+ e
+but
+it
+nh
+ce
+l 
+uw
+do
+er
+sk
+ ,
+i 
+na
+tn
+ed
+r 
+ft
+ah
+ce
+e 
+ s
+do
+eu
+fr
+ic
+ne
+i 
+tc
+io
+od
+ne
+  
+ff
+io
+lr
+e 
+ss
+ h
+aa
+sr
+se
+od
+c 
+il
+ai
+tb
+er
+da
+ r
+wi
+ie
+ts
+h 
+ a
+sn
+od
+u 
+rd
+cy
+en
+ a
+fm
+ii
+lc
+ea
+sl
+ l
+fy
+or
+ls
+iu
+nc
+kh
+e 
+da
+ s
+s 
+ub
+by
+p 
+ri
+on
+gt
+ri
+am
+ma
+st
+ e
+t 
+hd
+aa
+tt
+ a
+t 
+hc
+eo
+ m
+wm
+ou
+rn
+ki
+ c
+ia
+st
+ i
+so
+pn
+e 
+co
+ir
+f 
+ic
+co
+an
+lt
+lr
+yo
+ l
+d 
+ef
+sl
+io
+gw
+n 
+eb
+de
+ t
+tw
+oe
+ e
+rn
+e 
+qt
+uh
+io
+rs
+ee
+,
+subprograms and other parts of the work.
+ c
+ a
+Tn
+h 
+er
+ e
+Cg
+oe
+rn
+re
+er
+sa
+pt
+oe
+n 
+da
+iu
+nt
+go
+ m
+Sa
+ot
+ui
+rc
+ca
+el
+ l
+ny
+e 
+ef
+dr
+ o
+nm
+o 
+to
+ t
+ih
+ne
+cr
+l 
+up
+da
+er
+ t
+as
+n 
+yo
+tf
+h 
+it
+nh
+ge
+  
+tC
+ho
+ar
+tr
+ e
+us
+sp
+eo
+rn
+sd
+ing
+Source.
+ s
+ a
+Tm
+he
+e 
+ w
+Co
+or
+rk
+r.
+esponding Source for a work in source code form is that
+  2. Basic Permissions.
+  All rights granted under this License are granted for the term of
+cc
+oo
+pn
+yd
+ri
+it
+gi
+ho
+tn
+ s
+o 
+na
+ r
+te
+h 
+em
+ e
+Pt
+r.
+o 
+g 
+rT
+ah
+mi
+,s
+  
+aL
+ni
+dc
+ e
+an
+rs
+ee
+  
+ie
+rx
+rp
+el
+vi
+oc
+ci
+at
+bl
+ly
+e 
+ a
+pf
+rf
+oi
+vr
+im
+ds
+e 
+dy
+ o
+tu
+hr
+e 
+ u
+sn
+tl
+ai
+tm
+ei
+dt
+ed
+pc
+eo
+rv
+me
+ir
+se
+sd
+i 
+ow
+no
+ r
+tk
+o 
+ i
+rs
+u 
+nc
+ o
+tv
+he
+er
+ e
+ud
+n 
+mb
+oy
+d 
+it
+fh
+ii
+es
+d 
+ L
+Pi
+rc
+oe
+gn
+rs
+ae
+m 
+.o
+ n
+ l
+Ty
+h 
+ei
+ f
+o 
+ut
+th
+pe
+u 
+to
+ u
+ft
+rp
+ou
+mt
+ ,
+r 
+ug
+ni
+nv
+ie
+nn
+g 
+ i
+at
+s
+cr
+oi
+ng
+th
+et
+ns
+t 
+,o
+ f
+c 
+of
+na
+si
+tr
+i 
+tu
+us
+te
+e 
+so
+ r
+a 
+ o
+ct
+oh
+ve
+er
+r 
+ee
+dq
+ u
+wi
+ov
+ra
+kl
+.e
+ n
+ t
+T,
+h 
+ia
+ss
+  
+Lp
+ir
+co
+ev
+ni
+sd
+ee
+ d
+a 
+cb
+ky
+n 
+oc
+wo
+lp
+ey
+dr
+gi
+eg
+sh
+ t
+y 
+ol
+ua
+rw
+.
+  You may make, run and propagate covered works that you do not
+ci
+on
+n 
+vf
+eo
+yr
+,c
+ e
+w.
+i 
+t 
+hY
+oo
+uu
+t 
+ m
+ca
+oy
+n 
+dc
+io
+tn
+iv
+oe
+ny
+s 
+ c
+so
+ov
+ e
+lr
+oe
+nd
+g 
+ w
+ao
+sr
+ k
+ys
+o 
+ut
+ro
+  
+lo
+it
+ch
+ee
+nr
+ss
+e 
+ f
+oo
+tr
+h 
+et
+rh
+we
+i 
+ss
+eo
+ l
+re
+e 
+mp
+au
+ir
+np
+so
+se
+ow
+fi
+ t
+hh
+a 
+vf
+ia
+nc
+gi
+ l
+ti
+ht
+ei
+me
+ s
+m 
+af
+ko
+er
+  
+mr
+ou
+dn
+in
+fi
+in
+cg
+a 
+tt
+ih
+oo
+ns
+se
+  
+ew
+xo
+cr
+lk
+us
+s,
+i 
+vp
+er
+lo
+yv
+ i
+fd
+oe
+rd
+  
+yt
+oh
+ua
+,t
+  
+oy
+ro
+ u
+p 
+rc
+oo
+vm
+ip
+dl
+ey
+  
+yw
+oi
+ut
+h
+tn
+ho
+et
+  
+tc
+eo
+rn
+mt
+sr
+ o
+ol
+f 
+ c
+to
+hp
+iy
+sr
+ i
+Lg
+ih
+ct
+e.
+n 
+s 
+eT
+ h
+io
+ns
+ e
+c 
+ot
+nh
+vu
+es
+y 
+im
+na
+gk
+ i
+an
+lg
+l 
+ o
+mr
+a 
+tr
+eu
+rn
+in
+ai
+ln
+ g
+f 
+ot
+rh
+ e
+w 
+hc
+io
+cv
+he
+ r
+ye
+od
+u 
+ w
+do
+or
+ks
+fa
+on
+rd
+  
+yc
+oo
+un
+ t
+mr
+uo
+sl
+t,
+  
+do
+on
+  
+st
+oe
+ r
+em
+xs
+c 
+lt
+uh
+sa
+it
+v 
+ep
+lr
+yo
+ h
+oi
+nb
+ i
+yt
+o 
+ut
+rh
+ e
+bm
+e 
+hf
+ar
+lo
+fm
+, 
+ m
+ua
+nk
+di
+en
+rg
+  
+ya
+on
+uy
+r 
+ c
+do
+ip
+ri
+ee
+cs
+t 
+io
+of
+n
+your copyrighted material outside their relationship with you.
+ t
+ h
+Ce
+o 
+nc
+vo
+en
+yd
+ii
+nt
+gi
+ o
+un
+ns
+d 
+es
+rt
+ a
+at
+ne
+yd
+  
+ob
+te
+hl
+eo
+rw
+ .
+c 
+i 
+rS
+cu
+ub
+ml
+si
+tc
+ae
+nn
+cs
+ei
+sn
+ g
+i 
+si
+ s
+p 
+en
+ro
+mt
+i 
+ta
+tl
+el
+do
+ w
+se
+od
+l;
+e 
+ls
+ye
+ c
+ut
+ni
+do
+en
+r 
+10
+makes it unnecessary.
+  3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+ m
+ e
+Na
+os
+ u
+cr
+oe
+v 
+eu
+rn
+ed
+de
+ r
+w 
+oa
+rn
+ky
+  
+sa
+hp
+ap
+ll
+li
+ c
+ba
+eb
+ l
+de
+e 
+el
+ma
+ew
+d 
+ f
+pu
+al
+rf
+ti
+ l
+ol
+fi
+ n
+ag
+n 
+ o
+eb
+fl
+fi
+eg
+ca
+tt
+ii
+vo
+en
+ s
+t 
+eu
+cn
+hd
+ne
+or
+l 
+oa
+gr
+it
+ci
+ac
+ll
+e
+1s
+1i
+ m
+oi
+fl
+ a
+tr
+h 
+el
+ a
+Ww
+Is
+P 
+Op
+ r
+co
+oh
+pi
+yb
+ri
+it
+gi
+hn
+tg
+  
+to
+rr
+e 
+ar
+te
+ys
+ t
+ar
+di
+oc
+pt
+ti
+en
+dg
+  
+oc
+ni
+ r
+2c
+0u
+ m
+Dv
+ee
+cn
+et
+mi
+bo
+en
+r 
+ o
+1f
+9 
+9s
+6u
+,c
+ h
+or
+measures.
+ c
+ i
+Wr
+hc
+eu
+nm
+ v
+ye
+on
+ut
+ i
+co
+on
+n 
+vo
+ef
+y 
+ t
+ae
+ c
+ch
+on
+vo
+el
+ro
+eg
+di
+ c
+wa
+ol
+r 
+km
+,e
+ a
+ys
+ou
+ur
+ e
+ws
+a 
+it
+vo
+e 
+ t
+ah
+ne
+y 
+ e
+lx
+et
+ge
+an
+lt
+  
+ps
+ou
+wc
+eh
+r 
+ c
+ti
+or
+ c
+fu
+om
+rv
+be
+in
+dt
+ion
+it
+sh
+ e
+e 
+fc
+fo
+ev
+ce
+tr
+ee
+dd
+  
+bw
+yo
+ r
+ek
+x,
+e 
+ra
+cn
+id
+s 
+iy
+no
+gu
+  
+rd
+ii
+gs
+hc
+tl
+sa
+ i
+um
+n 
+da
+en
+ry
+  
+ti
+hn
+it
+se
+ n
+Lt
+ii
+co
+en
+n 
+st
+eo
+  
+wl
+ii
+tm
+hi
+ t
+r 
+eo
+sp
+pe
+er
+ca
+tt
+ i
+to
+on
+ or
+mu
+os
+de
+ir
+fs
+i,
+c 
+ay
+to
+iu
+or
+n 
+ o
+or
+f 
+ t
+th
+hi
+er
+ d
+w 
+op
+ra
+kr
+ t
+ai
+se
+ s
+a'
+  
+ml
+ee
+ag
+na
+sl
+  
+or
+fi
+ g
+eh
+nt
+fs
+o 
+rt
+co
+i 
+nf
+go
+,r
+ b
+ai
+gd
+a 
+ic
+ni
+sr
+tc
+ u
+tm
+hv
+ee
+ n
+wt
+oi
+ro
+kn
+' 
+so
+f
+technological measures.
+  4. Conveying Verbatim Copies.
+ r
+ e
+Yc
+oe
+ui
+ v
+me
+a 
+yi
+ t
+c,
+o 
+ni
+vn
+e 
+ya
+ n
+vy
+e 
+rm
+be
+ad
+ti
+iu
+mm
+ ,
+c 
+op
+pr
+io
+ev
+si
+ d
+oe
+fd
+  
+tt
+hh
+ea
+ t
+P 
+ry
+oo
+gu
+r 
+ac
+mo
+'n
+ss
+ p
+si
+oc
+uu
+ro
+cu
+es
+ l
+cy
+o 
+da
+en
+ d
+as you
+ak
+pe
+pe
+rp
+o 
+pi
+rn
+it
+aa
+tc
+et
+l 
+ya
+ l
+pl
+u 
+bn
+lo
+it
+si
+hc
+ e
+os
+n 
+ s
+et
+aa
+ct
+hi
+ n
+cg
+o 
+pt
+yh
+ a
+at
+n 
+ t
+ah
+pi
+ps
+r 
+oL
+pi
+rc
+ie
+an
+ts
+ee
+  
+ca
+on
+pd
+y 
+ra
+in
+gy
+ht notice;
+nk
+oe
+ne
+-p
+p 
+ei
+rn
+mt
+ia
+sc
+st
+i 
+va
+el
+ l
+t 
+en
+ro
+mt
+si
+ c
+ae
+ds
+d 
+eo
+df
+  
+it
+nh
+ e
+a 
+ca
+cb
+os
+re
+dn
+ c
+we
+i 
+to
+hf
+  
+sa
+en
+cy
+t 
+iw
+oa
+nr
+ r
+7a
+ n
+at
+py
+p;
+l 
+ya
+ n
+td
+o 
+ g
+ti
+hv
+ee
+  
+ca
+ol
+dl
+e;
+recipients a copy of this License along with the Program.
+ a
+ n
+Yd
+o 
+uy
+ o
+mu
+a 
+ym
+ a
+cy
+h 
+ao
+rf
+gf
+ee
+ r
+a 
+ns
+yu
+ p
+pp
+ro
+ir
+ct
+e 
+ o
+or
+r 
+ w
+na
+or
+ r
+pa
+rn
+it
+cy
+e 
+ p
+fr
+oo
+rt
+ e
+ec
+at
+ci
+ho
+ n
+c 
+of
+po
+yr
+  
+ta
+h 
+af
+te
+ e
+y.
+ou convey,
+  5. Conveying Modified Source Versions.
+  You may convey a work based on the Program, or the modifications to
+pt
+re
+or
+dm
+us
+c 
+eo
+ f
+i 
+ts
+ e
+fc
+rt
+oi
+mo
+ n
+t 
+h4
+e,
+  
+Pp
+rr
+oo
+gv
+ri
+ad
+me
+,d
+  
+it
+nh
+ a
+tt
+h 
+ey
+ o
+fu
+o 
+ra
+ml
+ s
+oo
+f 
+ m
+se
+oe
+ut
+r 
+ca
+el
+ l
+c 
+oo
+df
+e 
+ t
+uh
+ne
+ds
+ee
+r 
+ c
+to
+hn
+ed
+itions:
+    a) The work must carry prominent notices stating that you modified
+    it, and giving a relevant date.
+  
+  
+  
+  
+br
+)e
+ l
+Te
+ha
+es
+ e
+wd
+o 
+ru
+kn
+ d
+me
+ur
+s 
+tt
+ h
+ci
+as
+r 
+rL
+yi
+ c
+pe
+rn
+os
+me
+i 
+na
+en
+nd
+t 
+ a
+nn
+oy
+t 
+ic
+co
+en
+sd
+ i
+st
+ti
+ao
+tn
+is
+n 
+ga
+ d
+td
+he
+ad
+t 
+ u
+in
+td
+ e
+ir
+s 
+section
+  
+  
+  
+  
+7"
+.k
+ e
+ e
+Tp
+h 
+ii
+sn
+ t
+ra
+ec
+qt
+u 
+ia
+rl
+el
+m 
+en
+no
+tt
+ i
+mc
+oe
+ds
+i"
+f.
+ies the requirement in section 4 to
+    c) You must license the entire work, as a whole, under this
+  
+  
+  
+  
+LL
+ii
+cc
+ee
+nn
+ss
+ee
+  
+tw
+oi
+ l
+al
+n 
+yt
+oh
+ne
+er
+ e
+wf
+ho
+or
+ e
+c 
+oa
+mp
+ep
+sl
+ y
+i,
+n 
+ta
+ol
+ o
+pn
+og
+s 
+sw
+ei
+st
+sh
+i 
+oa
+nn
+ y
+o 
+fa
+ p
+ap
+ l
+ci
+oc
+pa
+yb
+.l
+ e
+  
+Ts
+he
+ic
+st
+ion 7
+  
+  
+  
+  
+ar
+de
+dg
+ia
+tr
+id
+ol
+ne
+as
+ls
+  
+to
+ef
+r 
+mh
+so
+,w
+  
+tt
+oh
+ e
+ty
+h 
+ea
+ r
+we
+h 
+op
+la
+ec
+ k
+oa
+fg
+ e
+td
+h.
+e 
+  
+wT
+oh
+ri
+ks
+, 
+ L
+ai
+nc
+de
+ n
+as
+le
+l 
+ g
+ii
+tv
+se
+ s
+p 
+an
+ro
+ts,
+  
+  
+  
+  
+pi
+en
+rv
+ma
+il
+si
+sd
+ia
+ot
+ne
+  
+ts
+ou
+ c
+lh
+i 
+cp
+ee
+nr
+sm
+ei
+ s
+ts
+hi
+eo
+ n
+w 
+oi
+rf
+k 
+ y
+io
+nu
+  
+ah
+na
+yv
+ e
+o 
+ts
+he
+ep
+ra
+ r
+wa
+at
+ye
+,l
+ y
+b 
+ur
+te
+ c
+ie
+ti
+ v
+de
+od
+e 
+si
+ t
+n.
+ot
+    d) If the work has interactive user interfaces, each must display
+  
+  
+  
+  
+Ai
+pn
+pt
+re
+or
+pf
+ra
+ic
+ae
+ts
+e 
+ t
+Lh
+ea
+gt
+a 
+ld
+ o
+N 
+on
+to
+it
+c 
+ed
+si
+;s
+ p
+hl
+oa
+wy
+e 
+vA
+ep
+rp
+,r
+ o
+ip
+fr
+ i
+ta
+ht
+ee
+  
+PL
+re
+og
+ga
+rl
+a 
+mN
+ o
+ht
+ai
+sc
+ e
+is
+n,
+t 
+ey
+ro
+au
+cr
+tive
+    work need not make them do so.
+ w
+ o
+Ar
+ k
+cs
+o,
+m 
+pw
+ih
+li
+ac
+th
+i 
+oa
+nr
+ e
+o 
+fn
+ o
+at
+  
+cb
+oy
+v 
+et
+rh
+ee
+di
+ r
+w 
+on
+ra
+kt
+ u
+wr
+ie
+t 
+he
+ x
+ot
+te
+hn
+es
+ri
+ o
+sn
+es
+p 
+ao
+rf
+a 
+tt
+eh
+ e
+a 
+nc
+do
+ v
+ie
+nr
+de
+ed
+p 
+ew
+no
+dr
+ek
+n,
+t
+ai
+nn
+d 
+ o
+wr
+h 
+io
+cn
+h 
+ a
+a 
+rv
+eo
+ l
+nu
+om
+te
+  
+co
+of
+m 
+ba
+i 
+ns
+et
+do
+ r
+wa
+ig
+te
+h 
+ o
+ir
+t 
+ d
+si
+us
+ct
+hr
+ i
+ab
+su
+ t
+ti
+oo
+ n
+f 
+om
+re
+md
+ i
+au
+ m
+l,
+a 
+ri
+gs
+e 
+rc
+ a
+pl
+rl
+oe
+gd
+r 
+aa
+mn
+,
+"u
+as
+ge
+gd
+r 
+et
+go
+a 
+tl
+ei
+"m
+ i
+it
+f 
+ t
+th
+he
+e 
+ a
+cc
+oc
+me
+ps
+is
+l 
+ao
+tr
+i 
+ol
+ne
+ g
+aa
+nl
+d 
+ r
+ii
+tg
+sh
+ t
+rs
+e 
+so
+uf
+l 
+tt
+ih
+ne
+g 
+ c
+co
+om
+pp
+yi
+rl
+ia
+gt
+hi
+to
+ n
+a'
+rs
+e 
+ u
+ns
+oe
+tr
+s
+bi
+en
+y 
+oa
+nn
+d 
+ a
+wg
+hg
+ar
+te
+ g
+ta
+ht
+ee
+  
+id
+no
+de
+is
+v 
+in
+do
+ut
+a 
+lc
+ a
+wu
+os
+re
+k 
+st
+ h
+pi
+es
+r 
+mL
+ii
+tc
+.e
+ n
+ s
+Ie
+n 
+ct
+lo
+u 
+sa
+ip
+op
+nl
+ y
+o 
+ft
+ o
+a 
+ t
+ch
+oe
+v 
+eo
+rt
+eh
+de
+ r
+work
+parts of the aggregate.
+  6. Conveying Non-Source Forms.
+ o
+ f
+Y 
+os
+ue
+ c
+mt
+ai
+yo
+ n
+cs
+o 
+n4
+v 
+ea
+yn
+ d
+a 
+ 5
+c,
+o 
+vp
+er
+ro
+ev
+di
+ d
+we
+od
+r 
+kt
+ h
+ia
+nt
+  
+oy
+bo
+ju
+e 
+ca
+tl
+ s
+co
+o 
+dc
+eo
+ n
+fv
+oe
+ry
+m 
+ t
+uh
+ne
+der the terms
+mi
+an
+c 
+ho
+in
+ne
+e 
+-o
+rf
+e 
+at
+dh
+ae
+bs
+le
+e 
+ w
+Ca
+oy
+rs
+r:
+esponding Source under the terms of this License,
+    a) Convey the object code in, or embodied in, a physical product
+  
+  
+  
+  
+(C
+io
+nr
+cr
+le
+us
+dp
+io
+nn
+gd
+ i
+an
+ g
+p 
+hS
+yo
+su
+ir
+cc
+ae
+l 
+ f
+di
+ix
+se
+td
+r 
+io
+bn
+u 
+ta
+i 
+od
+nu
+ r
+ma
+eb
+dl
+ie
+u 
+mp
+)h
+,y
+ s
+ai
+cc
+ca
+ol
+m 
+pm
+ae
+nd
+ii
+eu
+dm
+ by the
+    customarily used for software interchange.
+  
+  
+  
+  
+b(
+)i
+ n
+Cc
+ol
+nu
+vd
+ei
+yn
+ g
+t 
+ha
+e 
+ p
+oh
+by
+js
+ei
+cc
+ta
+ l
+c 
+od
+di
+es
+ t
+ir
+ni
+,b
+ u
+ot
+ri
+ o
+en
+m 
+bm
+oe
+dd
+ii
+eu
+dm
+ )
+i,
+n 
+,a
+ c
+ac
+ o
+pm
+hp
+ya
+sn
+ii
+ce
+ad
+l 
+ b
+py
+r 
+oa
+duct
+  
+  
+  
+  
+wl
+ro
+in
+tg
+t 
+ea
+ns
+  
+oy
+fo
+fu
+e 
+ro
+,f
+ f
+ve
+ar
+l 
+is
+dp
+ a
+fr
+oe
+r 
+ p
+aa
+tr
+ t
+ls
+e 
+ao
+sr
+t 
+ c
+tu
+hs
+rt
+eo
+em
+ e
+yr
+e 
+as
+ru
+sp
+ p
+ao
+nr
+dt
+  
+vf
+ao
+lr
+i 
+dt
+ h
+fa
+ot
+r 
+ p
+ar
+so
+duct
+  
+  
+  
+  
+mc
+oo
+dp
+ey
+l 
+,o
+ f
+t 
+ot
+ h
+ge
+i 
+vC
+eo
+ r
+ar
+ne
+ys
+op
+no
+en
+ d
+wi
+hn
+og
+  
+pS
+oo
+su
+sr
+ec
+se
+s 
+ef
+so
+ r
+t 
+ha
+el
+ l
+o 
+bt
+jh
+ee
+c 
+ts
+ o
+cf
+ot
+dw
+ea
+ r
+ee
+i 
+ti
+hn
+e 
+rt
+ h
+(e
+1) a
+  
+  
+  
+  
+pm
+re
+od
+di
+uu
+cm
+t 
+ c
+tu
+hs
+at
+to
+ m
+ia
+sr
+ i
+cl
+oy
+v 
+eu
+rs
+ee
+dd
+  
+bf
+yo
+ r
+t 
+hs
+io
+sf
+ t
+Lw
+ia
+cr
+ee
+n 
+si
+en
+,t
+ e
+or
+nc
+ h
+aa
+ n
+dg
+ue
+r,
+a 
+bf
+lo
+er
+  
+pa
+h 
+yp
+sr
+ii
+cc
+ae
+l 
+no
+  
+  
+  
+  
+mc
+oo
+rn
+ev
+ e
+ty
+hi
+an
+ng
+  
+yo
+of
+u 
+rs
+ o
+ru
+er
+ac
+se
+o,
+n 
+ao
+br
+l 
+e(
+ 2
+c)
+o 
+sa
+tc
+ c
+oe
+fs
+ s
+p 
+ht
+yo
+s 
+ic
+co
+ap
+ly
+l 
+yt
+ h
+pe
+erforming this
+    Corresponding Source from a network server at no charge.
+  
+  
+  
+  
+cw
+)r
+ i
+Ct
+ot
+ne
+vn
+e 
+yo
+ f
+if
+ne
+dr
+i 
+vt
+io
+d 
+up
+ar
+lo
+ v
+ci
+od
+pe
+i 
+et
+sh
+ e
+o 
+fC
+ o
+tr
+hr
+ee
+ s
+op
+bo
+jn
+ed
+ci
+tn
+ g
+c 
+oS
+do
+eu
+ r
+wc
+ie
+t.
+h 
+  
+aT
+ h
+ci
+os
+py of the
+  
+  
+  
+  
+ao
+ln
+tl
+ey
+r 
+ni
+af
+t 
+iy
+vo
+eu
+  
+ir
+se
+ c
+ae
+li
+lv
+oe
+wd
+e 
+dt
+ h
+oe
+n 
+lo
+yb
+ j
+oe
+cc
+ct
+a 
+sc
+io
+od
+ne
+a 
+lw
+li
+yt
+ h
+a 
+ns
+du
+ c
+nh
+o 
+na
+cn
+o 
+mo
+mf
+ef
+re
+cr
+i,
+a 
+li
+ln
+y 
+,a
+ c
+ac
+no
+dr
+d
+    with subsection 6b.
+  
+  
+  
+  
+dp
+)l
+ a
+Cc
+oe
+n 
+v(
+eg
+yr
+ a
+tt
+hi
+es
+  
+oo
+br
+j 
+ef
+co
+tr
+  
+ca
+o 
+dc
+eh
+ a
+br
+yg
+ e
+o)
+f,
+f 
+ea
+rn
+id
+n 
+go
+ f
+af
+ce
+cr
+e 
+se
+sq
+ u
+fi
+rv
+oa
+ml
+ e
+an
+ t
+d 
+ea
+sc
+ic
+ge
+ns
+as
+t 
+et
+do
+ the
+  
+  
+  
+  
+Cf
+ou
+rr
+rt
+eh
+se
+pr
+o 
+nc
+dh
+ia
+nr
+gg
+ e
+S.
+o 
+u 
+rY
+co
+eu
+  
+in
+ne
+ e
+td
+h 
+en
+ o
+st
+a 
+mr
+ee
+ q
+wu
+ai
+yr
+ e
+t 
+hr
+re
+oc
+ui
+gp
+hi
+ e
+tn
+ht
+es
+  
+st
+ao
+m 
+ec
+ o
+pp
+ly
+a 
+ct
+eh
+ e
+at no
+  
+  
+  
+  
+Cc
+oo
+rp
+ry
+e 
+st
+ph
+oe
+n 
+do
+ib
+nj
+ge
+ c
+St
+o 
+uc
+ro
+cd
+ee
+  
+ai
+ls
+o 
+na
+g 
+ n
+we
+it
+tw
+ho
+ r
+tk
+h 
+es
+ e
+or
+bv
+je
+er
+c,
+t 
+ t
+ch
+oe
+d 
+eC
+.o
+ r
+ r
+Ie
+fs
+ p
+to
+hn
+ed
+ i
+pn
+lg
+a 
+cS
+eo
+ u
+tr
+oc
+e
+  
+  
+  
+  
+mt
+ah
+ya
+ t
+b 
+es
+ u
+op
+np
+ o
+ar
+ t
+ds
+i 
+fe
+fq
+eu
+ri
+ev
+na
+tl
+ e
+sn
+et
+r 
+vc
+eo
+rp
+ y
+(i
+on
+pg
+e 
+rf
+aa
+tc
+ei
+dl
+ i
+bt
+yi
+ e
+ys
+o,
+u 
+ p
+or
+ro
+ v
+ai
+ d
+te
+hd
+i 
+ry
+do
+ u
+p 
+am
+ra
+ti
+yn
+)t
+ain
+  
+  
+  
+  
+cC
+lo
+er
+ar
+re
+ s
+dp
+io
+rn
+ed
+ci
+tn
+ig
+o 
+nS
+so
+ u
+nr
+ec
+xe
+t.
+  
+t 
+oR
+ e
+tg
+ha
+er
+ d
+ol
+be
+js
+es
+c 
+to
+ f
+c 
+ow
+dh
+ea
+ t
+s 
+as
+ye
+ir
+nv
+ge
+ r
+w 
+hh
+eo
+rs
+et
+ s
+t 
+ot
+ h
+fe
+ind the
+  
+  
+  
+  
+Ca
+ov
+ra
+ri
+el
+sa
+pb
+ol
+ne
+d 
+if
+no
+gr
+  
+Sa
+os
+u 
+rl
+co
+en
+,g
+  
+ya
+os
+u 
+ n
+re
+ee
+md
+ae
+id
+n 
+ t
+oo
+b 
+ls
+ia
+gt
+ai
+ts
+ef
+dy
+  
+tt
+oh
+ e
+es
+ne
+s 
+ur
+re
+eq
+ u
+ti
+hr
+ae
+tm
+ e
+in
+tt
+ s
+i.
+s
+    e) Convey the object code using peer-to-peer transmission, provided
+  
+  
+  
+  
+yS
+oo
+uu
+ r
+ic
+ne
+f 
+oo
+rf
+m 
+ t
+oh
+te
+h 
+ew
+ro
+ r
+pk
+e 
+ea
+rr
+se
+  
+wb
+he
+ei
+rn
+eg
+  
+to
+hf
+ef
+ e
+or
+be
+jd
+e 
+ct
+to
+  
+ct
+oh
+de
+e 
+ g
+ae
+nn
+de
+ r
+Ca
+ol
+r 
+rp
+eu
+sb
+pl
+oi
+nc
+d 
+ia
+nt
+g 
+no
+    charge under subsection 6d.
+ f
+ r
+Ao
+ m
+s 
+et
+ph
+ae
+r 
+aC
+bo
+lr
+er
+ e
+ps
+op
+ro
+tn
+id
+oi
+nn
+ g
+o 
+fS
+ o
+tu
+hr
+ec
+ e
+o 
+ba
+js
+e 
+ca
+t 
+ S
+cy
+os
+dt
+ee
+,m
+  
+wL
+hi
+ob
+sr
+ea
+ r
+sy
+o,
+u 
+rn
+ce
+ee
+ d
+c 
+on
+do
+et
+  
+ib
+se
+ excluded
+included in conveying the object code work.
+ t
+ a
+An
+ g
+"i
+Ub
+sl
+ee
+r 
+ p
+Pe
+rr
+os
+do
+un
+ca
+tl
+" 
+ p
+ir
+so
+ p
+ee
+ir
+tt
+hy
+e 
+rw
+ h
+(i
+1c
+)h
+  
+ai
+ s
+" 
+cn
+oo
+nr
+sm
+ua
+ml
+el
+ry
+  
+pu
+rs
+oe
+dd
+u 
+cf
+to
+"r
+, 
+ p
+we
+hr
+is
+co
+hn
+ a
+ml
+e,
+a 
+nf
+sa
+ m
+ai
+nl
+yy
+,
+oi
+rn
+ t
+ho
+o 
+ua
+s 
+ed
+hw
+oe
+ll
+dl
+ i
+pn
+ug
+r.
+p 
+o 
+sI
+en
+s 
+,d
+ e
+ot
+re
+ r
+(m
+2i
+)n
+ i
+an
+ng
+y 
+tw
+hh
+ie
+nt
+gh
+ e
+dr
+e 
+sa
+i 
+gp
+nr
+eo
+dd
+ u
+oc
+rt
+  
+si
+os
+l 
+da
+  
+fc
+oo
+rn
+ s
+iu
+nm
+ce
+or
+r 
+pp
+or
+ro
+ad
+tu
+ic
+ot
+n,
+dp
+or
+uo
+bd
+tu
+fc
+ut
+l 
+ r
+ce
+ac
+se
+ei
+sv
+ e
+sd
+h 
+ab
+ly
+l 
+ a
+b 
+ep
+ a
+rr
+et
+si
+oc
+lu
+vl
+ea
+dr
+  
+iu
+ns
+ e
+fr
+a,
+v 
+o"
+rn
+ o
+or
+fm
+ a
+cl
+ol
+vy
+e 
+ru
+as
+ge
+ed
+."
+  
+ r
+Fe
+of
+re
+ r
+as
+  
+pt
+ao
+r 
+ta
+icular
+to
+yf
+p 
+it
+ch
+ae
+l 
+ p
+oa
+rr
+ t
+ci
+oc
+mu
+ml
+oa
+nr
+  
+uu
+ss
+ee
+ r
+o 
+fo
+ r
+t 
+ho
+af
+t 
+ t
+ch
+le
+a 
+sw
+sa
+ y
+o 
+fi
+ n
+p 
+rw
+oh
+di
+uc
+ch
+t 
+,t
+ h
+re
+e 
+gp
+aa
+rr
+dt
+li
+ec
+su
+sl
+ a
+or
+f 
+ u
+ts
+he
+er
+ status
+ai
+cs
+t 
+ua
+a 
+lc
+lo
+yn
+ s
+uu
+sm
+ee
+sr
+, 
+ p
+or
+ro
+ d
+eu
+xc
+pt
+e 
+cr
+te
+sg
+ a
+or
+rd
+ l
+ie
+ss
+ s
+e 
+xo
+pf
+e 
+cw
+th
+ee
+dt
+ h
+te
+or
+  
+ut
+sh
+ee
+, 
+ p
+tr
+ho
+ed
+ u
+pc
+rt
+o 
+dh
+ua
+cs
+t 
+.s
+ u
+ b
+As
+ t
+pa
+rn
+ot
+di
+ua
+cl
+t
+ct
+oh
+me
+m 
+eo
+rn
+cl
+iy
+a 
+ls
+,i
+ g
+in
+ni
+df
+ui
+sc
+ta
+rn
+it
+a 
+lm
+ o
+od
+re
+  
+no
+of
+n 
+-u
+cs
+oe
+n 
+so
+uf
+m 
+et
+rh
+ e
+u 
+sp
+er
+so
+,d
+ u
+uc
+nt
+l.
+ess such uses represent
+  "Installation Information" for a User Product means any methods,
+pa
+rn
+od
+c 
+ee
+dx
+ue
+rc
+eu
+st
+,e
+  
+am
+uo
+td
+hi
+of
+ri
+ie
+zd
+a 
+tv
+ie
+or
+ns
+ i
+ko
+en
+ys
+s 
+,o
+ f
+o 
+ra
+  
+oc
+to
+hv
+ee
+rr
+ e
+id
+n 
+fw
+oo
+rr
+mk
+a 
+ti
+in
+o 
+nt
+ h
+ra
+et
+q 
+uU
+is
+re
+er
+d 
+ P
+tr
+oo
+ d
+iu
+nc
+st
+t 
+af
+lr
+lo
+m
+as
+ u
+mf
+of
+di
+ic
+fe
+i 
+et
+do
+  
+ve
+en
+rs
+su
+ir
+oe
+n 
+ t
+oh
+fa
+ t
+i 
+tt
+sh
+ e
+C 
+oc
+ro
+rn
+et
+si
+pn
+ou
+ne
+dd
+i 
+nf
+gu
+ n
+Sc
+ot
+ui
+ro
+cn
+ei
+.n
+ g
+  
+To
+hf
+e 
+ t
+ih
+ne
+f 
+om
+ro
+md
+ai
+tf
+ii
+oe
+nd
+  
+mo
+ub
+sj
+te
+ct
+cm
+oo
+dd
+ei
+ f
+ii
+sc
+ a
+it
+ni
+ o
+nn
+o 
+ h
+ca
+as
+s 
+eb
+ e
+pe
+rn
+e 
+vm
+ea
+nd
+te
+e.
+d or interfered with solely because
+  If you convey an object code work under this section in, or with, or
+sp
+pa
+er
+ct
+i 
+fo
+if
+c 
+aa
+l 
+lt
+yr
+ a
+fn
+os
+ra
+ c
+ut
+si
+eo
+ n
+i 
+ni
+,n
+  
+aw
+ h
+Ui
+sc
+eh
+r 
+ t
+Ph
+re
+o 
+dr
+ui
+cg
+th
+,t
+  
+ao
+nf
+d 
+ p
+to
+hs
+es
+ e
+cs
+os
+ni
+vo
+en
+y 
+ia
+nn
+gd
+  
+ou
+cs
+ce
+u 
+ro
+sf
+  
+at
+sh
+e
+Uf
+si
+ex
+re
+ d
+P 
+rt
+oe
+dr
+um
+c 
+t(
+ r
+ie
+sg
+ a
+tr
+rd
+al
+ne
+ss
+fs
+e 
+ro
+rf
+e 
+dh
+ o
+tw
+o 
+ t
+th
+he
+e 
+ t
+rr
+ea
+cn
+is
+pa
+ic
+et
+ni
+to
+ n
+i 
+ni
+ s
+p 
+ec
+rh
+pa
+er
+ta
+uc
+it
+te
+yr
+ i
+oz
+re
+ d
+f)
+o,
+r 
+ t
+ah
+e
+Cb
+oy
+r 
+rt
+eh
+se
+p 
+oI
+nn
+ds
+it
+na
+gl
+ l
+Sa
+ot
+ui
+ro
+cn
+e 
+ I
+cn
+of
+no
+vr
+em
+ya
+et
+di
+ o
+un
+n.
+d 
+e 
+rB
+ u
+tt
+h 
+it
+sh
+ i
+ss
+e 
+cr
+te
+iq
+ou
+ni
+ r
+me
+um
+se
+tn
+ t
+b 
+ed
+ o
+ae
+cs
+c 
+on
+mo
+pt
+a 
+na
+ip
+ep
+dl
+y
+im
+fo
+ d
+ni
+ef
+ii
+te
+hd
+e 
+ro
+ b
+yj
+oe
+uc
+ t
+n 
+oc
+ro
+ d
+ae
+n 
+yo
+ n
+t 
+ht
+ih
+re
+d 
+ U
+ps
+ae
+rr
+t 
+yP
+ r
+ro
+ed
+tu
+ac
+it
+n 
+s(
+ f
+to
+hr
+e 
+ e
+ax
+ba
+im
+lp
+il
+te
+y,
+  
+tt
+oh
+ e
+i 
+nw
+so
+tr
+ak
+l 
+lh
+as
+been installed in ROM).
+ r
+ e
+Tq
+hu
+ei
+ r
+re
+em
+qe
+un
+it
+r 
+et
+mo
+e 
+nc
+to
+ n
+tt
+oi
+ n
+pu
+re
+o 
+vt
+io
+d 
+ep
+ r
+Io
+nv
+si
+td
+ae
+l 
+ls
+au
+tp
+ip
+oo
+nr
+ t
+I 
+ns
+fe
+or
+rv
+mi
+ac
+te
+i,
+o 
+nw
+ a
+dr
+or
+ea
+sn
+ t
+ny
+o,
+t 
+ o
+ir
+n 
+cu
+lp
+ud
+da
+et
+ e
+as
+ft
+oh
+re
+  
+aU
+ s
+we
+or
+r 
+kP
+ r
+to
+hd
+au
+tc
+ t
+h 
+ai
+sn
+  
+bw
+eh
+ei
+nc
+ h
+m 
+oi
+dt
+i 
+fh
+ia
+es
+d 
+ b
+oe
+re
+ n
+i 
+nm
+so
+td
+ai
+lf
+li
+ee
+dd
+  
+bo
+yr
+  
+ti
+hn
+es
+ t
+ra
+el
+cl
+ie
+pd
+i.
+e 
+n 
+tA
+,c
+ c
+oe
+rs
+ s
+f 
+ot
+ro
+ a
+na
+ed
+tv
+we
+or
+rs
+ke
+ l
+my
+a 
+ya
+ f
+bf
+ee
+ c
+dt
+es
+n 
+it
+eh
+de
+  
+wo
+hp
+ee
+nr
+ a
+tt
+hi
+eo
+ n
+m 
+oo
+df
+i 
+ft
+ih
+ce
+a 
+tn
+ie
+ot
+nw
+ o
+ir
+tk
+s 
+eo
+lr
+f 
+ v
+mi
+ao
+tl
+ea
+rt
+ie
+as
+l 
+lt
+yh
+ e
+a 
+nr
+du
+les and
+protocols for communication across the network.
+ i
+ n
+C 
+oa
+rc
+rc
+eo
+sr
+pd
+o 
+nw
+di
+it
+nh
+g 
+ t
+Sh
+oi
+us
+r 
+cs
+ee
+ c
+ct
+oi
+no
+vn
+e 
+ym
+eu
+ds
+,t
+  
+ab
+ne
+d 
+ i
+In
+n 
+sa
+t 
+af
+lo
+lr
+am
+ta
+it
+o 
+nt
+ h
+Ia
+nt
+f 
+oi
+rs
+m 
+ap
+tu
+ib
+ol
+ni
+ c
+pl
+ry
+ovided,
+ds
+oo
+cu
+ur
+mc
+ee
+n 
+tc
+eo
+dd
+ e
+( 
+af
+no
+dr
+ m
+w)
+i,
+t 
+ha
+ n
+ad
+n 
+ m
+iu
+ms
+pt
+l 
+er
+me
+eq
+nu
+ti
+ar
+te
+i 
+on
+no
+  
+as
+vp
+ae
+ic
+li
+aa
+bl
+l 
+ep
+ a
+ts
+os
+ w
+to
+hr
+ed
+  
+po
+ur
+b 
+lk
+ie
+cy
+  
+if
+no
+r
+unpacking, reading or copying.
+  7. Additional Terms.
+ L
+ i
+"c
+Ae
+dn
+ds
+ie
+t 
+ib
+oy
+n 
+am
+la
+ k
+pi
+en
+rg
+m 
+ie
+sx
+sc
+ie
+op
+nt
+si
+"o
+ n
+as
+r 
+ef
+ r
+to
+em
+r 
+mo
+sn
+ e
+t 
+ho
+ar
+t 
+ m
+so
+ur
+pe
+p 
+lo
+ef
+m 
+ei
+nt
+ts
+  
+tc
+ho
+en
+ d
+ti
+et
+ri
+mo
+sn
+ s
+o.
+f this
+Ab
+de
+d 
+it
+tr
+ie
+oa
+nt
+ae
+ld
+  
+pa
+es
+r 
+mt
+ih
+so
+su
+ig
+oh
+n 
+st
+ h
+te
+hy
+a 
+tw
+ e
+ar
+re
+e 
+ i
+an
+pc
+pl
+lu
+id
+ce
+ad
+b 
+li
+en
+  
+tt
+oh
+ i
+ts
+h 
+eL
+ i
+ec
+ne
+tn
+is
+re
+e,
+  
+Pt
+ro
+o 
+gt
+rh
+ae
+m 
+ e
+sx
+ht
+ae
+ln
+lt
+ta
+hp
+ap
+tl
+ y
+t 
+ho
+en
+yl
+ y
+a 
+rt
+eo
+  
+vp
+aa
+lr
+it
+d 
+ o
+uf
+n 
+dt
+eh
+re
+  
+aP
+pr
+po
+lg
+ir
+ca
+am
+b,
+l 
+et
+ h
+la
+at
+w 
+.p
+ a
+ r
+It
+f 
+ m
+aa
+dy
+d 
+ib
+te
+i 
+ou
+ns
+ae
+ld
+  
+ps
+ee
+rp
+ma
+ir
+sa
+st
+ie
+ol
+ny
+s
+ut
+nh
+di
+es
+r 
+ L
+ti
+hc
+oe
+sn
+es
+ e
+p 
+ew
+ri
+mt
+ih
+so
+su
+it
+o 
+nr
+se
+,g
+ a
+br
+ud
+t 
+ t
+to
+h 
+et
+ h
+ee
+n 
+ta
+id
+rd
+ei
+ t
+Pi
+ro
+on
+ga
+rl
+a 
+mp
+ e
+rr
+em
+mi
+as
+is
+ni
+so
+ n
+gs
+o.
+verned by
+  When you convey a copy of a covered work, you may at your option
+ri
+et
+m.
+o 
+v 
+e(
+ A
+ad
+nd
+yi
+ t
+ai
+do
+dn
+ia
+tl
+i 
+op
+ne
+ar
+lm
+ i
+ps
+es
+ri
+mo
+in
+ss
+s 
+im
+oa
+ny
+s 
+ b
+fe
+r 
+ow
+mr
+ i
+tt
+ht
+ae
+tn
+  
+ct
+oo
+p 
+yr
+,e
+ q
+ou
+ri
+ r
+fe
+r 
+ot
+mh
+ e
+ai
+nr
+y 
+ o
+pw
+an
+rt of
+ra
+ed
+md
+oi
+vt
+ai
+lo
+ n
+ia
+nl
+  
+cp
+ee
+rr
+tm
+ai
+is
+ns
+ i
+co
+an
+ss
+e 
+so
+ n
+w 
+hm
+ea
+nt
+ e
+yr
+oi
+ua
+ l
+m,
+o 
+da
+id
+fd
+ye
+ d
+t 
+hb
+ey
+  
+wy
+oo
+ru
+k 
+.t
+)o
+  
+ a
+Y 
+oc
+uo
+ v
+me
+ar
+ye
+ d
+p 
+lw
+ao
+cr
+ek
+,
+for which you have or can give appropriate copyright permission.
+ a
+ d
+Nd
+o 
+tt
+wo
+i 
+ta
+h 
+sc
+to
+av
+ne
+dr
+ie
+nd
+g 
+ w
+ao
+nr
+yk
+ ,
+o 
+ty
+ho
+eu
+r 
+ m
+pa
+ry
+o 
+v(
+ii
+sf
+i 
+oa
+nu
+ t
+oh
+fo
+ r
+ti
+hz
+ie
+sd
+  
+Lb
+iy
+c 
+et
+nh
+se
+e 
+,c
+ o
+fp
+oy
+rr
+ i
+mg
+ah
+tt
+e 
+rh
+io
+al
+ld
+ e
+yr
+os
+u 
+of
+that material) supplement the terms of this License with terms:
+  
+  
+  
+  
+at
+)e
+ r
+Dm
+is
+s 
+co
+lf
+a 
+is
+me
+ic
+nt
+gi
+ o
+wn
+as
+r 
+r1
+a5
+n 
+ta
+yn
+ d
+o 
+r1
+ 6
+l 
+io
+mf
+i 
+tt
+ih
+ni
+gs
+  
+lL
+ii
+ac
+be
+in
+ls
+ie
+t;
+y 
+ o
+dr
+ifferently from the
+    b) Requiring preservation of specified reasonable legal notices or
+  
+  
+  
+  
+aN
+uo
+tt
+hi
+oc
+re
+ s
+a 
+td
+ti
+rs
+ip
+bl
+ua
+ty
+ie
+od
+n 
+sb
+ y
+i 
+nw
+ o
+tr
+hk
+as
+t 
+ c
+mo
+an
+tt
+ea
+ri
+in
+ai
+ln
+ g
+o 
+ri
+ t
+i;
+n 
+ o
+tr
+he Appropriate Legal
+    c) Prohibiting misrepresentation of the origin of that material, or
+  
+  
+  
+  
+rr
+ee
+qa
+us
+io
+rn
+ia
+nb
+gl
+ e
+t 
+hw
+aa
+ty
+ s
+m 
+oa
+ds
+i 
+fd
+ii
+ef
+df
+ e
+vr
+ee
+rn
+st
+i 
+of
+nr
+so
+ m
+o 
+ft
+ h
+se
+u 
+co
+hr
+ i
+mg
+ai
+tn
+ea
+rl
+i 
+av
+le
+ r
+bs
+ei
+ o
+mn
+a;
+r 
+ko
+er
+d in
+    d) Limiting the use for publicity purposes of names of licensors or
+    authors of the material; or
+  
+  
+  
+  
+et
+)r
+ a
+Dd
+ee
+c 
+ln
+ia
+nm
+ie
+ns
+g,
+  
+tt
+or
+ a
+gd
+re
+am
+na
+tr
+ k
+rs
+i,
+g 
+ho
+tr
+s 
+ s
+ue
+nr
+dv
+ei
+rc
+ e
+t 
+rm
+aa
+dr
+ek
+ms
+a;
+r 
+ko
+ r
+law for use of some
+    f) Requiring indemnification of licensors and authors of that
+  
+  
+  
+  
+mi
+at
+t)
+e 
+rw
+ii
+at
+lh
+  
+bc
+yo
+ n
+at
+nr
+ya
+oc
+nt
+eu
+ a
+wl
+h 
+oa
+ s
+cs
+ou
+nm
+vp
+et
+yi
+so
+ n
+ts
+h 
+eo
+ f
+m 
+al
+ti
+ea
+rb
+ii
+al
+li
+ t
+(y
+o 
+rt
+ o
+m 
+ot
+dh
+ie
+f 
+ir
+ee
+dc
+ i
+vp
+ei
+re
+sn
+it
+o,
+n 
+sf
+ o
+or
+f
+  
+  
+  
+  
+at
+nh
+yo
+ s
+le
+i 
+al
+bi
+ic
+le
+in
+ts
+yo
+ r
+ts
+h 
+aa
+tn
+ d
+t 
+ha
+eu
+st
+eh
+ o
+cr
+os
+n.
+tractual assumptions directly impose on
+  All other non-permissive additional terms are considered "further
+rr
+ee
+sc
+te
+ri
+iv
+ce
+td
+i 
+oi
+nt
+s,
+" 
+ o
+wr
+i 
+ta
+hn
+iy
+n 
+ p
+ta
+hr
+et
+  
+mo
+ef
+a 
+ni
+it
+n,
+g 
+ c
+oo
+fn
+ t
+sa
+ei
+cn
+ts
+i 
+oa
+n 
+ n
+1o
+0t
+.i
+ c
+ e
+I 
+fs
+ t
+ta
+ht
+ei
+ n
+Pg
+r 
+ot
+gh
+ra
+at
+m 
+ i
+at
+s 
+ i
+ys
+ou
+gr
+oe
+vs
+et
+rr
+ni
+ec
+dt
+ i
+bo
+yn
+ ,
+t 
+hy
+io
+su
+  
+Lm
+ia
+cy
+e 
+nr
+se
+em
+ o
+av
+le
+o 
+nt
+gh
+ a
+wt
+i 
+tt
+he
+ r
+am
+ .
+t 
+e 
+rI
+mf
+  
+ta
+h 
+al
+ti
+ c
+ie
+sn
+ s
+ae
+  
+fd
+uo
+rc
+tu
+hm
+ee
+rn
+t contains
+aL
+ i
+fc
+ue
+rn
+ts
+he
+e,
+r 
+ y
+ro
+eu
+s 
+tm
+ra
+iy
+c 
+ta
+id
+od
+n 
+ t
+bo
+u 
+ta
+  
+pc
+eo
+rv
+me
+ir
+te
+sd
+  
+rw
+eo
+lr
+ik
+c 
+em
+na
+st
+ie
+nr
+gi
+ a
+ol
+r 
+ g
+co
+ov
+ne
+vr
+en
+ye
+id
+n 
+gb
+ y
+u 
+nt
+dh
+ee
+r 
+ t
+te
+hr
+im
+ss
+on
+fo
+ t
+t 
+hs
+au
+tr
+ v
+li
+iv
+ce
+e 
+ns
+su
+ec
+ h
+d 
+or
+ce
+ul
+mi
+ec
+ne
+tn
+,s
+ i
+pn
+rg
+o 
+vo
+ir
+d 
+ec
+do
+ n
+tv
+he
+ay
+ti
+ n
+tg
+h.
+e further restriction does
+  If you add terms to a covered work in accord with this section, you
+ma
+ud
+sd
+ti
+ t
+pi
+lo
+an
+ca
+el
+, 
+ t
+ie
+nr
+ m
+ts
+h 
+et
+ h
+ra
+et
+l 
+ea
+vp
+ap
+nl
+ty
+  
+st
+oo
+u 
+rt
+ch
+eo
+ s
+fe
+i 
+lf
+ei
+sl
+,e
+ s
+a,
+  
+so
+tr
+a 
+ta
+e 
+mn
+eo
+nt
+ti
+ c
+oe
+f 
+ i
+tn
+hd
+ei
+cating
+where to find the applicable terms.
+ f
+ o
+Ar
+dm
+d 
+io
+tf
+i 
+oa
+n 
+as
+le
+ p
+ta
+er
+ra
+mt
+se
+,l
+ y
+p 
+ew
+rr
+mi
+it
+st
+se
+in
+v 
+el
+ i
+oc
+re
+ n
+ns
+oe
+n,
+- 
+po
+er
+r 
+ms
+it
+sa
+st
+ie
+vd
+e 
+,a
+ s
+m 
+ae
+yx
+ c
+be
+ep
+ t
+si
+to
+an
+ts
+e;
+d in the
+the above requirements apply either way.
+  8. Termination.
+ p
+ r
+Yo
+ov
+ui
+ d
+me
+ad
+y 
+ u
+nn
+od
+te
+ r
+p 
+rt
+oh
+pi
+as
+g 
+aL
+ti
+ec
+ e
+on
+rs
+ e
+m.
+o 
+d 
+iA
+fn
+yy
+  
+aa
+ t
+ct
+oe
+vm
+ep
+rt
+e 
+do
+ t
+wh
+oe
+rr
+kw
+ i
+es
+xe
+c 
+et
+po
+t 
+ p
+ar
+so
+ p
+ea
+xg
+pa
+rt
+ee
+s 
+so
+lr
+y
+mt
+oh
+di
+is
+f 
+yL
+ i
+ic
+te
+ n
+is
+se
+  
+v(
+oi
+in
+dc
+,l
+ u
+ad
+ni
+dn
+ g
+w 
+ia
+ln
+ly
+  
+ap
+ua
+tt
+oe
+mn
+at
+t 
+il
+ci
+ac
+le
+ln
+ys
+ e
+ts
+e 
+rg
+mr
+ia
+nn
+at
+te
+ed
+  
+yu
+on
+ud
+re
+ r
+r 
+it
+gh
+he
+t 
+st
+ h
+ui
+nr
+dd
+er
+paragraph of section 11).
+ l
+ i
+Hc
+oe
+wn
+es
+ve
+e 
+rf
+,r
+ o
+im
+f 
+ a
+y 
+op
+ua
+ r
+ct
+ei
+ac
+su
+el
+ a
+ar
+l 
+lc
+ o
+vp
+iy
+or
+li
+ag
+th
+it
+o 
+nh
+ o
+ol
+fd
+ e
+tr
+h 
+ii
+ss
+  
+Lr
+ie
+ci
+en
+ns
+st
+ea
+,t
+ e
+td
+h 
+e(
+na
+ )
+your
+pf
+ri
+on
+va
+il
+sl
+iy
+o 
+nt
+ae
+lr
+lm
+yi
+,n
+ a
+ut
+ne
+ls
+e 
+sy
+so
+ u
+ar
+n 
+dl
+ i
+uc
+ne
+tn
+is
+le
+ ,
+t 
+ha
+en
+ d
+c 
+o(
+pb
+y)
+r 
+ip
+ge
+hr
+tm
+ a
+hn
+oe
+ln
+dt
+el
+ry
+ ,
+e 
+xi
+pf
+l 
+it
+ch
+ie
+t 
+lc
+yo
+ p
+ay
+nr
+di
+ght
+hp
+or
+li
+do
+er
+r 
+ t
+fo
+a 
+i6
+l0
+s 
+ d
+ta
+oy
+ s
+n 
+oa
+tf
+it
+fe
+yr
+  
+yt
+oh
+ue
+  
+oc
+fe
+ s
+ts
+ha
+et
+ i
+vo
+in
+o.
+lation by some reasonable means
+  Moreover, your license from a particular copyright holder is
+rv
+ei
+io
+nl
+sa
+tt
+ai
+to
+en
+d 
+ b
+py
+e 
+rs
+mo
+am
+ne
+e 
+nr
+te
+la
+ys
+ o
+in
+fa
+ b
+tl
+he
+e 
+ m
+ce
+oa
+pn
+ys
+r,
+i 
+gt
+hh
+ti
+ s
+h 
+oi
+ls
+d 
+et
+rh
+ e
+n 
+of
+ti
+ir
+fs
+it
+e 
+st
+ i
+ym
+oe
+u 
+ y
+oo
+fu
+  
+th
+ha
+ev
+e
+rc
+eo
+cp
+ey
+ir
+vi
+eg
+dh
+ t
+n 
+oh
+to
+il
+cd
+ee
+ r
+o,
+f 
+ a
+vn
+id
+o 
+ly
+ao
+tu
+i 
+oc
+nu
+ r
+oe
+f 
+ t
+th
+he
+i 
+sv
+ i
+Lo
+il
+ca
+et
+ni
+so
+en
+  
+(p
+fr
+oi
+ro
+ r
+a 
+nt
+yo
+  
+w3
+o0
+r 
+kd
+)a
+ y
+fs
+r 
+oa
+mf
+ t
+te
+hr
+at
+your receipt of the notice.
+ l
+ i
+Tc
+ee
+rn
+ms
+ie
+ns
+a 
+to
+if
+o 
+np
+ a
+or
+ft
+ i
+ye
+os
+u 
+rw
+ h
+ro
+i 
+gh
+ha
+tv
+se
+  
+ur
+ne
+dc
+ee
+ri
+ v
+te
+hd
+i 
+sc
+ o
+sp
+ei
+ce
+ts
+i 
+oo
+nr
+  
+dr
+oi
+eg
+sh
+ t
+ns
+o 
+tf
+ r
+to
+em
+r 
+my
+io
+nu
+a 
+tu
+en
+ d
+te
+hr
+e
+tr
+he
+ii
+sn
+ s
+Lt
+ia
+ct
+ee
+nd
+s,
+e 
+.y
+ o
+ u
+I 
+fd
+ o
+y 
+on
+uo
+rt
+  
+rq
+iu
+ga
+hl
+ti
+sf
+ y
+h 
+at
+vo
+e 
+ r
+be
+ec
+ee
+ni
+ v
+te
+e 
+rn
+me
+iw
+n 
+al
+ti
+ec
+de
+ n
+as
+ne
+ds
+  
+nf
+oo
+tr
+  
+pt
+eh
+re
+m 
+as
+na
+em
+ne
+tly
+material under section 10.
+  9. Acceptance Not Required for Having Copies.
+ r
+ u
+Yn
+o 
+ua
+  
+ac
+ro
+ep
+ y
+n 
+oo
+tf
+  
+rt
+eh
+qe
+u 
+iP
+rr
+eo
+dg
+ r
+ta
+om
+ .
+a 
+c 
+cA
+en
+pc
+ti
+ l
+tl
+ha
+ir
+sy
+  
+Lp
+ir
+co
+ep
+na
+sg
+ea
+ t
+ii
+no
+ n
+o 
+ro
+df
+e 
+ra
+  
+tc
+oo
+ v
+re
+er
+ce
+ed
+i 
+vw
+eo
+ r
+ok
+r
+ot
+co
+c 
+ur
+re
+rc
+ie
+ni
+gv
+ e
+s 
+oa
+l 
+ec
+lo
+yp
+ y
+a 
+sl
+ i
+ak
+ e
+cw
+oi
+ns
+se
+e 
+qd
+uo
+ee
+ns
+c 
+en
+ o
+ot
+f 
+ r
+ue
+sq
+iu
+ni
+gr
+ e
+p 
+ea
+ec
+rc
+-e
+tp
+ot
+-a
+pn
+ec
+ee
+r.
+  
+t 
+rH
+ao
+nw
+se
+mv
+ie
+sr
+s,
+ion
+nm
+oo
+td
+hi
+if
+ny
+g 
+ a
+on
+ty
+h 
+ec
+ro
+ v
+te
+hr
+ae
+nd
+  
+tw
+ho
+ir
+sk
+ .
+L 
+i 
+cT
+eh
+ne
+ss
+ee
+  
+ga
+rc
+at
+ni
+to
+sn
+ s
+y 
+oi
+un
+ f
+pr
+ei
+rn
+mg
+ie
+s 
+sc
+io
+op
+ny
+ r
+ti
+og
+ h
+pt
+r 
+oi
+pf
+a 
+gy
+ao
+tu
+e 
+ d
+oo
+r
+nc
+oo
+tv
+ e
+ar
+ce
+cd
+e 
+pw
+to
+ r
+tk
+h,
+i 
+sy
+ o
+Lu
+i 
+ci
+en
+nd
+si
+ec
+.a
+ t
+ e
+T 
+hy
+eo
+ru
+er
+f 
+oa
+rc
+ec
+,e
+ p
+bt
+ya
+ n
+mc
+oe
+d 
+io
+ff
+y 
+it
+nh
+gi
+ s
+o 
+rL
+ i
+pc
+re
+on
+ps
+ae
+g 
+at
+to
+i 
+nd
+go
+  
+as
+o.
+  10. Automatic Licensing of Downstream Recipients.
+  Each time you convey a covered work, the recipient automatically
+rp
+er
+co
+ep
+ia
+vg
+ea
+st
+ e
+a 
+ t
+lh
+ia
+ct
+e 
+nw
+so
+er
+ k
+f,
+r 
+os
+mu
+ b
+tj
+he
+ec
+ t
+o 
+rt
+io
+g 
+it
+nh
+ai
+ls
+  
+lL
+ii
+cc
+ee
+nn
+ss
+oe
+r.
+s 
+, 
+ Y
+to
+ou
+  
+ra
+ur
+ne
+, 
+ n
+mo
+ot
+d 
+ir
+fe
+ys
+ p
+ao
+nn
+ds
+ible
+for enforcing compliance by third parties with this License.
+ o
+ r
+Ag
+na
+ n
+"i
+ez
+na
+tt
+ii
+to
+yn
+ ,
+t 
+ro
+ar
+n 
+ss
+au
+cb
+ts
+it
+oa
+nn
+"t
+ i
+ia
+sl
+ l
+ay
+  
+ta
+rl
+al
+n 
+sa
+as
+cs
+te
+it
+os
+n 
+ o
+tf
+r 
+ao
+nn
+se
+f,
+e 
+ro
+rr
+i 
+ns
+gu
+ b
+cd
+oi
+nv
+ti
+rd
+oi
+ln
+ g
+o 
+fa
+ n
+an
+ow
+ro
+gr
+ak
+n 
+ir
+ze
+as
+tu
+il
+ot
+ns
+, 
+ f
+or
+ro
+ m
+m 
+ea
+rn
+g 
+ie
+nn
+gt
+ i
+ot
+ry
+g 
+at
+nr
+ia
+zn
+as
+ta
+ic
+ot
+ni
+so
+.n
+ ,
+  
+Ie
+fa
+ c
+ph
+r 
+op
+pa
+ar
+gt
+ay
+t 
+it
+oo
+n 
+ t
+oh
+fa
+ t
+a covered
+tl
+ri
+ac
+ne
+sn
+as
+ce
+ts
+i 
+ot
+no
+  
+wt
+hh
+oe
+  
+rw
+eo
+cr
+ek
+i 
+vt
+eh
+se
+  
+ap
+ a
+cr
+ot
+py
+y'
+ s
+o 
+fp
+ r
+te
+hd
+ee
+ c
+we
+os
+rs
+ko
+ r
+a 
+li
+sn
+o 
+ i
+rn
+et
+ce
+er
+ie
+vs
+et
+s 
+ h
+wa
+hd
+a 
+to
+er
+v 
+ec
+ro
+uld
+gC
+io
+vr
+er
+ e
+us
+np
+do
+en
+rd
+ i
+tn
+hg
+e 
+ S
+po
+ru
+er
+vc
+ie
+o 
+uo
+sf
+  
+pt
+ah
+re
+a 
+gw
+ro
+ar
+pk
+h 
+,f
+ r
+po
+lm
+u 
+st
+ h
+ae
+  
+rp
+ir
+ge
+hd
+te
+ c
+te
+os
+ s
+po
+or
+s 
+si
+en
+s 
+si
+in
+ot
+ne
+ r
+oe
+fs
+ t
+t,
+h 
+ei
+f
+the predecessor has it or can get it with reasonable efforts.
+ r
+ i
+Yg
+oh
+ut
+ s
+m 
+ag
+yr
+ a
+nn
+ot
+te
+ d
+i 
+mo
+pr
+o 
+sa
+ef
+ f
+ai
+nr
+ym
+ e
+fd
+u 
+ru
+tn
+hd
+ee
+rr
+  
+rt
+eh
+si
+ts
+r 
+iL
+ci
+tc
+ie
+on
+ns
+se
+ .
+o 
+n 
+ F
+to
+hr
+e 
+ e
+ex
+xa
+em
+rp
+cl
+ie
+s,
+e 
+ y
+oo
+fu
+  
+tm
+ha
+ey
+nr
+oi
+tg
+ h
+it
+ms
+p 
+og
+sr
+ea
+ n
+at
+ e
+ld
+i 
+cu
+en
+nd
+se
+er
+  
+ft
+eh
+ei
+,s
+  
+rL
+oi
+yc
+ae
+ln
+ts
+ye
+,,
+  
+oa
+rn
+ d
+o 
+ty
+ho
+eu
+r 
+ m
+ca
+hy
+a 
+rn
+go
+et
+  
+fi
+on
+ri
+ t
+ei
+xa
+et
+re
+c 
+il
+si
+et
+ i
+og
+fa
+tion
+(a
+in
+ny
+c 
+lp
+ua
+dt
+ie
+nn
+gt
+  
+ac
+ l
+ca
+ri
+om
+s 
+si
+-s
+c 
+li
+an
+if
+mr
+ i
+on
+rg
+ e
+cd
+o 
+ub
+ny
+t 
+em
+ra
+ck
+li
+an
+ig
+m,
+  
+iu
+ns
+ i
+an
+ g
+l,
+a 
+ws
+se
+ul
+il
+ti
+)n
+ g
+a,
+l 
+lo
+ef
+gf
+ie
+nr
+gi
+ n
+tg
+h 
+af
+to
+r
+sale, or importing the Program or any portion of it.
+  11. Patents.
+ L
+ i
+Ac
+ e
+"n
+cs
+oe
+n 
+to
+rf
+i 
+bt
+uh
+te
+o 
+rP
+"r
+ o
+ig
+sr
+ a
+am
+  
+co
+or
+p 
+ya
+r 
+iw
+go
+hr
+tk
+  
+ho
+on
+l 
+dw
+eh
+ri
+ c
+wh
+h 
+ot
+ h
+ae
+u 
+tP
+hr
+oo
+rg
+ir
+za
+em
+s 
+ i
+us
+s 
+eb
+ a
+us
+ne
+dd
+e.
+r 
+  
+tT
+hh
+ie
+s
+work thus licensed is called the contributor's "contributor version".
+ o
+ w
+An
+ e
+cd
+o 
+no
+tr
+r 
+ic
+bo
+un
+tt
+or
+ro
+'l
+sl
+ e
+"d
+e 
+sb
+sy
+e 
+nt
+th
+ie
+a 
+lc
+ o
+pn
+at
+tr
+ei
+nb
+tu
+ t
+co
+lr
+a,
+i 
+mw
+sh
+"e
+ t
+ah
+re
+er
+  
+aa
+ll
+lr
+ e
+pa
+ad
+ty
+e 
+na
+tc
+ q
+cu
+li
+ar
+ie
+md
+s 
+or
+hb
+ey
+r 
+et
+ah
+fi
+ts
+e 
+rL
+ i
+ac
+ce
+qn
+us
+ie
+r,
+e 
+do
+,f
+  
+tm
+ha
+ak
+ti
+ n
+wg
+o,
+u 
+lu
+ds
+ i
+bn
+eg
+ ,
+i 
+no
+fr
+r 
+is
+ne
+gl
+el
+di
+ n
+bg
+y 
+ i
+st
+os
+m 
+ec
+ o
+mn
+at
+nr
+ni
+eb
+ru
+,t
+ o
+pr
+e 
+rv
+me
+ir
+ts
+ti
+eo
+dn
+,
+bc
+uo
+tn
+ s
+de
+oq
+ u
+ne
+on
+tc
+ e
+i 
+no
+cf
+l 
+uf
+du
+er
+ t
+ch
+le
+ar
+i 
+mm
+so
+ d
+ti
+hf
+ai
+tc
+ a
+wt
+oi
+uo
+ln
+d 
+ o
+bf
+e 
+ t
+ih
+ne
+f 
+rc
+io
+nn
+gt
+er
+di
+ b
+ou
+nt
+lo
+yr
+  
+av
+se
+ r
+as
+ion.  For
+pp
+ua
+rt
+pe
+on
+st
+e 
+ss
+ u
+ob
+fl
+ i
+tc
+he
+in
+ss
+ e
+ds
+e 
+fi
+in
+n 
+ia
+t 
+im
+oa
+nn
+,n
+ e
+"r
+c 
+oc
+no
+tn
+rs
+oi
+ls
+"t
+ e
+in
+nt
+c 
+lw
+ui
+dt
+eh
+s 
+ t
+th
+he
+e 
+ r
+re
+iq
+gu
+hi
+tr
+ e
+tm
+oe
+ n
+gt
+rs
+a 
+no
+tf
+this License.
+ p
+ a
+Et
+ae
+cn
+ht
+  
+cl
+oi
+nc
+te
+rn
+is
+be
+u 
+tu
+on
+rd
+ e
+gr
+r 
+at
+nh
+te
+s 
+ c
+yo
+on
+ut
+ r
+ai
+ b
+nu
+ot
+no
+-r
+e'
+xs
+c 
+le
+us
+ss
+ie
+vn
+et
+,i
+ a
+wl
+o 
+rp
+la
+dt
+we
+in
+dt
+e 
+,c
+ l
+ra
+oi
+ym
+as
+l,
+t 
+yt
+-o
+free
+mp
+ar
+ko
+ep
+,a
+ g
+ua
+st
+ee
+, 
+ t
+sh
+ee
+l 
+lc
+,o
+ n
+ot
+fe
+fn
+et
+rs
+  
+fo
+of
+r 
+ i
+st
+as
+l 
+ec
+,o
+ n
+it
+mr
+pi
+ob
+ru
+tt
+ o
+ar
+n 
+dv
+ e
+or
+ts
+hi
+eo
+rn
+w.
+ise run, modify and
+  In the following three paragraphs, a "patent license" is any express
+a(
+gs
+ru
+ec
+eh
+m 
+ea
+ns
+t 
+ a
+on
+r 
+ e
+cx
+op
+mr
+me
+is
+ts
+m 
+ep
+ne
+tr
+,m
+ i
+hs
+os
+wi
+eo
+vn
+e 
+rt
+ o
+d 
+ep
+nr
+oa
+mc
+it
+ni
+ac
+te
+e 
+da
+, 
+ p
+na
+ot
+te
+ n
+tt
+o 
+ o
+er
+n 
+fc
+oo
+rv
+ce
+en
+ a
+an
+ t
+p 
+an
+to
+et
+n 
+tt
+o
+sp
+ua
+er
+ t
+fy
+o 
+rm
+ e
+pa
+an
+ts
+e 
+nt
+to
+  
+im
+na
+fk
+re
+i 
+ns
+gu
+ec
+mh
+e 
+na
+tn
+) 
+.a
+ g
+ r
+Te
+oe
+ m
+"e
+gn
+rt
+a 
+no
+tr
+" 
+ c
+so
+um
+cm
+hi
+ t
+am
+ e
+pn
+at
+t 
+en
+no
+tt
+  
+lt
+io
+c 
+ee
+nn
+sf
+eo
+ r
+tc
+oe
+  
+aa
+patent against the party.
+ a
+ n
+Id
+f 
+ t
+yh
+oe
+u 
+ C
+co
+or
+nr
+ve
+es
+yp
+ o
+an
+ d
+ci
+on
+vg
+e 
+rS
+eo
+du
+ r
+wc
+oe
+r 
+ko
+,f
+  
+kt
+nh
+oe
+w 
+iw
+no
+gr
+lk
+y 
+ i
+rs
+e 
+ln
+yo
+it
+n 
+ga
+ v
+oa
+ni
+ l
+aa
+ b
+pl
+ae
+t 
+ef
+no
+tr
+  
+la
+in
+cy
+eo
+nn
+se
+e,
+tp
+ou
+ b
+cl
+oi
+pc
+yl
+,y
+  
+fa
+rv
+ea
+ei
+ l
+oa
+fb
+ l
+ce
+h 
+an
+re
+gt
+ew
+ o
+ar
+nk
+d 
+ s
+ue
+nr
+dv
+ee
+rr
+  
+to
+hr
+e 
+ o
+tt
+eh
+re
+mr
+s 
+ r
+oe
+fa
+ d
+ti
+hl
+iy
+s 
+ a
+Lc
+ic
+ce
+es
+ns
+si
+eb
+,l
+ e
+t 
+hm
+re
+oa
+un
+gs
+h,
+ a
+ta
+hv
+ea
+ni
+ l
+ya
+ob
+ul
+ e
+m,
+u 
+so
+tr
+  
+e(
+i2
+t)
+h 
+ea
+rr
+ r
+(a
+1n
+)g
+ e
+c 
+at
+uo
+s 
+ed
+ e
+tp
+hr
+ei
+ v
+Ce
+o 
+ry
+ro
+eu
+sr
+ps
+oe
+nl
+df
+i 
+no
+gf
+  
+St
+oh
+ue
+r 
+cb
+ee
+ n
+te
+of
+ i
+bt
+e 
+ o
+sf
+o 
+the
+pc
+ao
+tn
+es
+ni
+ts
+ t
+le
+in
+ct
+e 
+nw
+si
+et
+ h
+f 
+ot
+rh
+ e
+t 
+hr
+ie
+sq
+ u
+pi
+ar
+re
+tm
+ie
+cn
+ut
+ls
+a 
+ro
+ f
+w 
+ot
+rh
+ki
+,s
+  
+oL
+ri
+ c
+(e
+3n
+)s
+ e
+a,
+r 
+rt
+ao
+n 
+ge
+ex
+,t
+ e
+in
+nd
+  
+at
+ h
+me
+a 
+np
+na
+et
+re
+nt
+la
+ic
+ct
+eu
+na
+sl
+e 
+ k
+tn
+oo
+ w
+dl
+oe
+wd
+ng
+se
+t 
+rt
+eh
+aa
+mt
+ ,
+r 
+eb
+cu
+it
+p 
+if
+eo
+nr
+t 
+st
+.h
+ e
+  
+"p
+Ka
+nt
+oe
+wn
+it
+n 
+gl
+li
+yc
+ e
+rn
+es
+le
+y,
+i 
+ny
+go
+"u
+ r
+m 
+ec
+ao
+nn
+sv
+ e
+yy
+oi
+un
+ g
+h 
+at
+vh
+ee
+ci
+on
+v 
+ea
+r 
+ec
+do
+ u
+wn
+ot
+rr
+ky
+ ,
+i 
+nw
+ o
+au
+ l
+cd
+o 
+ui
+nn
+tf
+rr
+yi
+,n
+ g
+oe
+r 
+ o
+yn
+oe
+u 
+ro
+ r
+r 
+em
+co
+ir
+pe
+i 
+ei
+nd
+te
+'n
+st
+ i
+uf
+si
+ea
+ b
+ol
+fe
+  
+tp
+ha
+et
+ e
+cn
+ot
+vs
+e 
+ri
+en
+d 
+ t
+wh
+oa
+rt
+k
+country that you have reason to believe are valid.
+ a
+ r
+Ir
+fa
+,n
+ g
+pe
+um
+re
+sn
+ut
+a,
+n 
+ty
+ o
+tu
+o 
+ c
+oo
+rn
+ v
+ie
+ny
+ ,
+c 
+oo
+nr
+n 
+ep
+cr
+to
+ip
+oa
+ng
+ a
+wt
+ie
+t 
+hb
+ y
+a 
+ p
+sr
+io
+nc
+gu
+lr
+ei
+ n
+tg
+r 
+ac
+no
+sn
+av
+ce
+ty
+ia
+on
+nc
+ e
+o 
+ro
+f, a
+cr
+oe
+vc
+ee
+ri
+ev
+di
+ n
+wg
+o 
+rt
+kh
+,e
+  
+ac
+no
+dv
+ e
+gr
+re
+ad
+n 
+tw
+ o
+ar
+ k
+p 
+aa
+tu
+et
+nh
+to
+ r
+li
+iz
+ci
+en
+ng
+s 
+et
+ h
+te
+om
+  
+st
+oo
+m 
+eu
+ s
+oe
+f,
+  
+tp
+hr
+eo
+ p
+pa
+ag
+ra
+tt
+ie
+e,
+s 
+modify
+oy
+ro
+ u
+c 
+og
+nr
+va
+en
+yt
+  
+ai
+ s
+s 
+pa
+eu
+ct
+io
+fm
+ia
+ct
+ i
+cc
+oa
+pl
+yl
+ y
+o 
+fe
+ x
+tt
+he
+en
+ d
+ce
+od
+v 
+et
+ro
+e 
+da
+ l
+wl
+o 
+rr
+ke
+,c
+ i
+tp
+hi
+ee
+nn
+ t
+ts
+h 
+eo
+ f
+p 
+at
+th
+ee
+n 
+tc
+ o
+lv
+ie
+cr
+ee
+nd
+se
+work and works based on it.
+ t
+ h
+Ae
+  
+ps
+ac
+to
+ep
+ne
+t 
+ o
+lf
+i 
+ci
+et
+ns
+s 
+ec
+ o
+iv
+se
+ r
+"a
+dg
+ie
+s,
+c 
+rp
+ir
+mo
+ih
+ni
+ab
+ti
+ot
+rs
+y 
+"t
+ h
+ie
+f 
+ e
+ix
+te
+ r
+dc
+oi
+es
+se
+  
+no
+of
+t,
+  
+io
+nr
+c 
+li
+us
+de within
+cs
+op
+ne
+dc
+ii
+tf
+ii
+oc
+na
+el
+dl
+ y
+o 
+ng
+ r
+ta
+hn
+et
+ e
+nd
+o 
+nu
+-n
+ed
+xe
+er
+r 
+ct
+ih
+si
+es
+  
+oL
+fi
+ c
+oe
+nn
+es
+ e
+o.
+r 
+  
+mY
+oo
+ru
+e 
+ m
+oa
+fy
+  
+tn
+ho
+et
+  
+rc
+io
+gn
+hv
+te
+sy
+  
+ta
+h 
+ac
+to
+ v
+ae
+rr
+ee
+d
+wi
+on
+r 
+kt
+ h
+ie
+f 
+ b
+yu
+os
+ui
+ n
+ae
+rs
+es
+  
+ao
+ f
+p 
+ad
+ri
+ts
+yt
+ r
+ti
+ob
+ u
+at
+ni
+ n
+ag
+r 
+rs
+ao
+nf
+gt
+ew
+ma
+er
+ne
+t,
+  
+wu
+in
+td
+he
+ r
+a 
+ w
+th
+hi
+ic
+rh
+d 
+ y
+po
+au
+r 
+tm
+ya
+ k
+te
+h 
+ap
+ta
+ y
+im
+se
+nt
+tt
+oh
+ e
+t 
+hw
+eo
+ r
+tk
+h,
+i 
+ra
+dn
+ d
+p 
+au
+rn
+td
+ye
+ r
+b 
+aw
+sh
+ei
+dc
+ h
+o 
+nt
+ h
+te
+h 
+et
+ h
+ei
+xr
+td
+e 
+np
+ta
+ r
+ot
+fy
+  
+yg
+or
+ua
+rn
+ t
+as
+c,
+t 
+it
+vo
+i 
+ta
+yn
+ y
+o 
+fo
+ f
+c 
+ot
+nh
+ve
+eying
+pp
+aa
+rt
+te
+in
+et
+s 
+ l
+wi
+hc
+oe
+ n
+ws
+oe
+u 
+l(
+da
+ )
+r 
+ei
+cn
+e 
+ic
+vo
+en
+ n
+te
+hc
+et
+ i
+co
+on
+v 
+ew
+ri
+et
+dh
+  
+wc
+oo
+rp
+ki
+ e
+fs
+r 
+oo
+mf
+  
+yt
+oh
+ue
+, 
+ c
+ao
+ v
+de
+ir
+se
+cd
+r 
+iw
+mo
+ir
+nk
+atory
+cf
+oo
+nr
+v 
+ea
+yn
+ed
+d 
+ i
+bn
+y 
+ c
+yo
+on
+un
+ e
+(c
+ot
+ri
+ o
+cn
+o 
+pw
+ii
+et
+sh
+  
+ms
+ap
+de
+ec
+ i
+ff
+ri
+oc
+m 
+ p
+tr
+ho
+od
+su
+ec
+ t
+cs
+o 
+po
+ir
+e 
+sc
+)o
+,m
+ p
+oi
+rl
+ a
+(t
+bi
+)o
+ n
+ps
+r 
+it
+mh
+aa
+rt
+ily
+co
+or
+n 
+tt
+ah
+ia
+nt
+  
+tp
+ha
+et
+ e
+cn
+ot
+v 
+el
+ri
+ec
+de
+ n
+ws
+oe
+r 
+kw
+,a
+ s
+u 
+ng
+lr
+ea
+sn
+st
+ e
+yd
+o,
+u 
+ p
+er
+ni
+to
+er
+r 
+et
+do
+  
+i2
+n8
+t 
+oM
+ a
+tr
+hc
+ah
+t 
+ 2
+a0
+r0
+r7
+a.
+ngement,
+  Nothing in this License shall be construed as excluding or limiting
+ao
+nt
+yh
+ e
+ir
+mw
+pi
+ls
+ie
+e 
+db
+ e
+l 
+ia
+cv
+ea
+ni
+sl
+ea
+ b
+ol
+re
+  
+ot
+to
+h 
+ey
+ro
+ u
+d 
+eu
+fn
+ed
+ne
+sr
+e 
+sa
+ p
+tp
+ol
+ i
+ic
+na
+fb
+rl
+ie
+n 
+gp
+ea
+mt
+ee
+nn
+tt
+  
+tl
+ha
+aw
+t.
+ may
+  12. No Surrender of Others' Freedom.
+  If conditions are imposed on you (whether by court order, agreement or
+oe
+tx
+hc
+eu
+rs
+we
+i 
+sy
+eo
+)u
+  
+tf
+hr
+ao
+tm
+  
+ct
+oh
+ne
+t 
+rc
+ao
+dn
+id
+ci
+tt
+ i
+to
+hn
+es
+  
+co
+of
+n 
+dt
+ih
+ti
+is
+o 
+nL
+si
+ c
+oe
+fn
+ s
+te
+h.
+i 
+s 
+ I
+Lf
+i 
+cy
+eo
+nu
+s 
+ec
+,a
+ n
+tn
+ho
+et
+y 
+ c
+do
+on
+ v
+ne
+oy
+t 
+a
+cL
+oi
+vc
+ee
+rn
+es
+de
+  
+wa
+on
+rd
+k 
+ a
+sn
+oy
+  
+ao
+st
+ h
+te
+or
+  
+sp
+ae
+tr
+it
+si
+fn
+ye
+ n
+st
+i 
+mo
+ub
+ll
+ti
+ag
+na
+et
+oi
+uo
+sn
+ls
+y,
+  
+yt
+oh
+ue
+rn
+  
+oa
+bs
+l 
+ia
+g 
+ac
+to
+in
+os
+ne
+sq
+ u
+ue
+nn
+dc
+ee
+r 
+ y
+to
+hu
+i 
+sm
+ay
+nt
+oo
+t 
+ c
+co
+ol
+nl
+ve
+ec
+yt
+  
+ia
+t 
+ r
+ao
+ty
+ a
+al
+lt
+ly
+. 
+ f
+ o
+Fr
+o 
+rf
+ u
+er
+xt
+ah
+me
+pr
+l 
+ec
+,o
+ n
+iv
+fe
+ y
+yi
+on
+ug
+  
+af
+gr
+ro
+em
+e 
+ t
+th
+oo
+ s
+te
+e 
+rt
+mo
+s 
+ w
+th
+ho
+am
+t 
+ y
+oo
+bu
+l 
+ic
+go
+an
+tv
+ee
+ y
+you
+tL
+hi
+ec
+ e
+Pn
+rs
+oe
+g 
+rw
+ao
+mu
+,l
+ d
+t 
+hb
+ee
+  
+ot
+no
+l 
+yr
+ e
+wf
+ar
+ya
+ i
+yn
+o 
+ue
+ n
+ct
+oi
+ur
+le
+dl
+ y
+s 
+af
+tr
+io
+sm
+f 
+yc
+ o
+bn
+ov
+te
+hy
+ i
+tn
+hg
+o 
+st
+eh
+ e
+t 
+eP
+rr
+mo
+sg
+ r
+aa
+nm
+d.
+ this
+  13. Use with the GNU Affero General Public License.
+  Notwithstanding any other provision of this License, you have
+pu
+en
+rd
+me
+ir
+s 
+sv
+ie
+or
+ns
+ i
+to
+on
+  
+l3
+i 
+no
+kf
+  
+ot
+rh
+ e
+c 
+oG
+mN
+bU
+i 
+nA
+ef
+ f
+ae
+nr
+yo
+  
+cG
+oe
+vn
+ee
+rr
+ea
+dl
+  
+wP
+ou
+rb
+kl
+ i
+wc
+i 
+tL
+hi
+ c
+ae
+ n
+ws
+oe
+r 
+ki
+ n
+lt
+io
+c 
+ea
+n 
+ss
+ei
+dn
+gle
+cL
+oi
+mc
+be
+in
+ns
+ee
+d 
+ w
+wi
+ol
+rl
+k 
+,c
+ o
+an
+nt
+di
+ n
+tu
+oe
+  
+ct
+oo
+n 
+va
+ep
+yp
+ l
+ty
+h 
+et
+ o
+r 
+et
+sh
+ue
+l 
+tp
+ia
+nr
+gt
+  
+ww
+oh
+ri
+kc
+.h
+  
+ i
+Ts
+h 
+et
+ h
+te
+e 
+rc
+mo
+sv
+ e
+or
+fe
+ d
+t 
+hw
+io
+sr
+k,
+bs
+ue
+tc
+ t
+ti
+ho
+en
+  
+s1
+p3
+e,
+c 
+ic
+ao
+ln
+ c
+re
+er
+qn
+ui
+in
+rg
+e 
+mi
+en
+nt
+te
+sr
+ a
+oc
+ft
+ i
+to
+hn
+e 
+ t
+Gh
+Nr
+Uo
+ u
+Ag
+fh
+f 
+ea
+r 
+on
+ e
+Gt
+ew
+no
+er
+rk
+a 
+lw
+ i
+Pl
+ul
+b 
+la
+ip
+cp
+ l
+Ly
+i 
+ct
+eo
+n 
+st
+eh
+,e
+combination as such.
+  14. Revised Versions of this License.
+ t
+ h
+Te
+h 
+eG
+ N
+FU
+r 
+eG
+ee
+ n
+Se
+or
+fa
+tl
+w 
+aP
+ru
+eb
+ l
+Fi
+oc
+u 
+nL
+di
+ac
+te
+in
+os
+ne
+  
+mf
+ar
+yo
+ m
+p 
+ut
+bi
+lm
+ie
+s 
+ht
+ o
+r 
+et
+vi
+im
+se
+e.
+d 
+  
+aS
+nu
+dc
+/h
+o 
+rn
+ e
+nw
+e 
+wv
+ e
+vr
+es
+ri
+so
+in
+os
+n 
+sw
+ i
+ol
+fl
+ba
+ed
+ d
+sr
+ie
+ms
+is
+l 
+an
+re
+ w
+i 
+np
+ r
+so
+pb
+il
+re
+im
+ts
+  
+to
+or
+  
+tc
+ho
+en
+ c
+pe
+rr
+en
+ss
+e.
+nt version, but may differ in detail to
+  Each version is given a distinguishing version number.  If the
+PP
+ru
+ob
+gl
+ri
+ac
+m 
+ L
+si
+pc
+ee
+cn
+is
+fe
+i 
+e"
+so
+ r
+t 
+ha
+an
+ty
+  
+al
+ a
+ct
+ee
+rr
+t 
+av
+ie
+nr
+ s
+ni
+uo
+mn
+b"
+e 
+ra
+ep
+dp
+ l
+vi
+ee
+rs
+s 
+it
+oo
+n 
+ i
+ot
+f,
+  
+ty
+ho
+eu
+  
+Gh
+Na
+Uv
+ e
+G 
+et
+nh
+ee
+ral
+ov
+pe
+tr
+is
+oi
+no
+ n
+o 
+fo
+ r
+f 
+oo
+lf
+l 
+oa
+wn
+iy
+n 
+gl
+ a
+tt
+he
+er
+  
+tv
+ee
+rr
+ms
+si
+ o
+an
+n 
+dp
+ u
+cb
+ol
+ni
+ds
+ih
+te
+id
+o 
+nb
+sy
+  
+et
+ih
+te
+h 
+eF
+rr
+ e
+oe
+f 
+ S
+to
+hf
+at
+tw
+ a
+nr
+ue
+mbered
+FG
+oN
+uU
+n 
+dG
+ae
+tn
+ie
+or
+na
+.l
+  
+ P
+Iu
+fb
+ l
+ti
+hc
+e 
+ L
+Pi
+rc
+oe
+gn
+rs
+ae
+m,
+  
+dy
+oo
+eu
+s 
+ m
+na
+oy
+t 
+ c
+sh
+po
+eo
+cs
+ie
+f 
+ya
+ n
+ay
+  
+vv
+ee
+rr
+ss
+ii
+oo
+nn
+  
+ne
+uv
+me
+br
+e 
+rp
+ u
+ob
+fl
+ i
+ts
+hh
+ee
+d
+by the Free Software Foundation.
+ v
+ e
+Ir
+fs
+ i
+to
+hn
+es
+  
+Po
+rf
+o 
+gt
+rh
+ae
+m 
+ G
+sN
+pU
+e 
+cG
+ie
+fn
+ie
+er
+sa
+ l
+t 
+hP
+au
+tb
+ l
+ai
+ c
+p 
+rL
+oi
+xc
+ye
+ n
+cs
+ae
+n 
+ c
+da
+en
+c 
+ib
+de
+e 
+ u
+ws
+he
+id
+c,
+h 
+ t
+fh
+ua
+tt
+u 
+rp
+er
+oxy's
+pt
+uo
+b 
+lc
+ih
+co
+ o
+ss
+te
+a 
+tt
+eh
+ma
+et
+n 
+tv
+ e
+or
+fs
+ i
+ao
+cn
+c 
+ef
+po
+tr
+a 
+nt
+ch
+ee
+  
+oP
+fr
+ o
+ag
+ r
+va
+em
+r.
+sion permanently authorizes you
+  Later license versions may give you additional or different
+pa
+eu
+rt
+mh
+io
+sr
+s 
+io
+or
+n 
+sc
+.o
+ p
+ y
+Hr
+oi
+wg
+eh
+vt
+e 
+rh
+,o
+ l
+nd
+oe
+ r
+a 
+da
+ds
+i 
+ta
+i 
+or
+ne
+as
+lu
+ l
+ot
+b 
+lo
+if
+g 
+ay
+to
+iu
+or
+n 
+sc
+ h
+ao
+ro
+es
+ i
+in
+mg
+p 
+ot
+so
+e 
+df
+ o
+ol
+nl
+ o
+aw
+n 
+ya
+later version.
+  15. Disclaimer of Warranty.
+ A
+ P
+TP
+HL
+EI
+RC
+EA
+ B
+IL
+SE
+  
+NL
+OA
+ W
+W.
+A 
+R 
+RE
+AX
+NC
+TE
+YP
+ T
+F 
+OW
+RH
+ E
+TN
+H 
+EO
+ T
+PH
+RE
+OR
+GW
+RI
+AS
+ME
+, 
+ S
+TT
+OA
+ T
+TE
+HD
+E 
+ I
+EN
+X 
+TW
+ER
+NI
+TT
+ I
+PN
+EG
+R 
+MT
+IH
+TE
+T 
+EC
+DO
+ P
+BY
+YR
+IGHT
+HO
+OF
+L 
+DA
+EN
+RY
+S 
+ K
+AI
+NN
+DD
+/,
+O 
+RE
+ I
+OT
+TH
+HE
+ER
+R 
+ E
+PX
+AP
+RR
+TE
+IS
+ES
+SE
+ D
+P 
+RO
+OR
+V 
+II
+DM
+EP
+ L
+TI
+HE
+ED
+ ,
+P 
+RI
+ON
+GC
+RL
+AU
+MD
+ I
+"N
+AG
+S,
+  
+IB
+SU
+"T
+  
+WN
+IO
+TT
+H 
+OL
+UI
+TM
+ I
+WT
+AE
+RD
+R 
+AT
+NO
+T,
+Y
+TP
+HU
+ER
+ P
+IO
+MS
+PE
+L.
+I 
+E 
+DT
+ H
+WE
+A 
+RE
+RN
+AT
+NI
+TR
+IE
+E 
+SR
+ I
+OS
+FK
+  
+MA
+ES
+R 
+CT
+HO
+A 
+NT
+TH
+AE
+B 
+IQ
+LU
+IA
+TL
+YI
+ T
+AY
+N 
+DA
+ N
+FD
+I 
+TP
+NE
+ER
+SF
+SO
+ R
+FM
+OA
+RN
+ C
+AE
+  
+PO
+AF
+R 
+TT
+IH
+CE
+U 
+LP
+AR
+RO
+GRAM
+IA
+SL
+ L
+W 
+IN
+TE
+HC
+ E
+YS
+OS
+UA
+.R
+ Y
+  
+SS
+HE
+OR
+UV
+LI
+DC
+ I
+TN
+HG
+E,
+  
+PR
+RE
+OP
+GA
+RI
+AR
+M 
+ O
+PR
+R 
+OC
+VO
+ER
+ R
+DE
+EC
+FT
+EI
+CO
+TN
+I.
+VE, YOU ASSUME THE COST OF
+  16. Limitation of Liability.
+  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WT
+IH
+LE
+L 
+ P
+AR
+NO
+YG
+ R
+CA
+OM
+P 
+YA
+RS
+I 
+GP
+HE
+TR
+ M
+HI
+OT
+LT
+DE
+ED
+R 
+,A
+ B
+OO
+RV
+ E
+A,
+N 
+YB
+ E
+O 
+TL
+HI
+EA
+RB
+ L
+PE
+A 
+RT
+TO
+Y 
+ Y
+WO
+HU
+O 
+ F
+MO
+OR
+D 
+ID
+FA
+IM
+EA
+SG
+ E
+AS
+N,
+D 
+/I
+ON
+RC
+ L
+CU
+OD
+NI
+VN
+EG
+Y 
+SA
+NY
+GU
+ES
+NE
+E 
+RO
+AR
+L 
+,I
+ N
+SA
+PB
+EI
+CL
+II
+AT
+LY
+, 
+ T
+IO
+N 
+CU
+IS
+DE
+E 
+NT
+TH
+AE
+L 
+ P
+OR
+RO
+ G
+CR
+OA
+NM
+S 
+E(
+QI
+UN
+EC
+NL
+TU
+ID
+AI
+LN
+ G
+D 
+AB
+MU
+AT
+G 
+EN
+SO
+ T
+A 
+RL
+II
+SM
+II
+NT
+GE
+ D
+O 
+UT
+TO
+  
+OL
+FO
+ S
+TS
+H 
+EO
+F
+DP
+AA
+TR
+AT
+ I
+OE
+RS
+  
+DO
+AR
+T 
+AA
+  
+BF
+EA
+II
+NL
+GU
+ R
+RE
+E 
+NO
+DF
+E 
+RT
+EH
+DE
+  
+IP
+NR
+AO
+CG
+CR
+UA
+RM
+A 
+TT
+EO
+  
+OO
+RP
+ E
+LR
+OA
+ST
+SE
+E 
+SW
+ I
+ST
+UH
+S 
+TA
+AN
+IY
+N 
+EO
+DT
+ H
+BE
+YR
+  
+YP
+OR
+UO
+ G
+OR
+RA
+ M
+TS
+H)
+I,
+RD
+ES
+VU
+EC
+NH
+  
+ID
+FA
+ M
+SA
+UG
+CE
+HS
+ .
+HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+  17. Interpretation of Sections 15 and 16.
+  If the disclaimer of warranty and limitation of liability provided
+ar
+be
+ov
+vi
+ee
+ w
+ci
+an
+ng
+n 
+oc
+to
+ u
+br
+et
+ s
+g 
+is
+vh
+ea
+nl
+ l
+l 
+oa
+cp
+ap
+ll
+ y
+l 
+el
+go
+ac
+la
+ l
+e 
+fl
+fa
+ew
+c 
+tt
+ h
+aa
+ct
+c 
+om
+ro
+ds
+it
+n 
+gc
+ l
+to
+os
+ e
+tl
+hy
+e 
+ia
+rp
+ p
+tr
+eo
+rx
+mi
+sm
+,a
+tes
+aP
+nr
+ o
+ag
+br
+sa
+om
+l,
+u 
+tu
+en
+ l
+we
+as
+is
+v 
+ea
+r 
+ w
+oa
+fr
+ r
+aa
+ln
+lt
+ y
+c 
+io
+vr
+i 
+la
+ s
+ls
+iu
+am
+bp
+it
+li
+io
+tn
+y 
+ o
+if
+n 
+ l
+ci
+oa
+nb
+ni
+el
+ci
+tt
+iy
+o 
+na
+ c
+wc
+io
+tm
+hp
+ a
+tn
+hi
+ee
+s a
+copy of the Program in return for a fee.
+                     END OF TERMS AND CONDITIONS
+            How to Apply These Terms to Your New Programs
+ p
+ o
+Is
+fs
+ i
+yb
+ol
+ue
+  
+du
+es
+ve
+e 
+lt
+oo
+p 
+ t
+ah
+ e
+n 
+ep
+wu
+ b
+pl
+ri
+oc
+g,
+r 
+at
+mh
+,e
+  
+ab
+ne
+ds
+ t
+y 
+ow
+ua
+ y
+w 
+at
+no
+t 
+ a
+ic
+th
+ i
+te
+ov
+ e
+b 
+et
+ h
+oi
+fs
+  
+ti
+hs
+e 
+ t
+go
+r 
+em
+aa
+tk
+ee
+s 
+ti
+t
+free software which everyone can redistribute and change under these terms.
+ t
+ o
+T 
+oa
+ t
+dt
+oa
+ c
+sh
+o 
+,t
+ h
+ae
+tm
+t 
+at
+co
+h 
+ t
+th
+he
+e 
+ s
+ft
+oa
+lr
+lt
+o 
+wo
+if
+n 
+ge
+ a
+nc
+oh
+t 
+is
+co
+eu
+sr
+ c
+te
+o 
+ f
+ti
+hl
+ee
+  
+pt
+ro
+o 
+gm
+ro
+as
+mt
+. 
+ e
+ f
+If
+te
+ c
+it
+si
+ v
+se
+al
+fy
+est
+st
+th
+ae
+t 
+e"
+ c
+to
+hp
+ey
+ r
+ei
+xg
+ch
+lt
+u"
+s 
+il
+oi
+nn
+ e
+o 
+fa
+ n
+wd
+a 
+ra
+r 
+ap
+no
+ti
+yn
+;t
+ e
+ar
+n 
+dt
+ o
+e 
+aw
+ch
+he
+ r
+fe
+i 
+lt
+eh
+ e
+s 
+hf
+ou
+ul
+ll
+d 
+ n
+ho
+at
+vi
+ec
+ e
+a 
+ti
+ s
+l 
+ef
+ao
+su
+tn
+d.
+    <one line to give the program's name and a brief idea of what it does.>
+    Copyright (C) <year>  <name of author>
+  
+  
+  
+  
+Ti
+ht
+i 
+su
+ n
+pd
+re
+or
+g 
+rt
+ah
+me
+  
+it
+se
+ r
+fm
+rs
+e 
+eo
+ f
+s 
+ot
+fh
+te
+w 
+aG
+rN
+eU
+: 
+ G
+ye
+on
+ue
+ r
+ca
+al
+n 
+ P
+ru
+eb
+dl
+ii
+sc
+t 
+rL
+ii
+bc
+ue
+tn
+es
+ e
+i 
+ta
+ s
+a 
+np
+du
+/b
+ol
+ri
+ s
+mh
+oe
+dd
+i 
+fb
+yy
+  
+  
+  
+  
+t(
+ha
+et
+  
+Fy
+ro
+eu
+er
+  
+So
+op
+ft
+ti
+wo
+an
+r)
+e 
+ a
+Fn
+oy
+u 
+nl
+da
+at
+te
+ir
+o 
+nv
+,e
+ r
+es
+ii
+to
+hn
+e.
+r version 3 of the License, or
+    This program is distributed in the hope that it will be useful,
+  
+  
+  
+  
+bM
+uE
+tR
+ C
+WH
+IA
+TN
+HT
+OA
+UB
+TI
+ L
+AI
+NT
+YY
+  
+Wo
+Ar
+R 
+RF
+AI
+NT
+TN
+YE
+;S
+ S
+w 
+iF
+tO
+hR
+o 
+uA
+t 
+ P
+eA
+vR
+eT
+nI
+ C
+tU
+hL
+eA
+ R
+i 
+mP
+pU
+lR
+iP
+eO
+dS
+ E
+w.
+a 
+r 
+rS
+ae
+ne
+t 
+yt
+ h
+oe
+f
+    GNU General Public License for more details.
+  
+  
+  
+  
+Ya
+ol
+uo
+ n
+sg
+h 
+ow
+ui
+lt
+dh
+  
+ht
+ah
+vi
+es
+  
+rp
+er
+co
+eg
+ir
+va
+em
+d.
+  
+a 
+ I
+cf
+o 
+pn
+yo
+ t
+o,
+f 
+ s
+te
+he
+e 
+ <
+Gh
+Nt
+Ut
+ p
+Gs
+e:
+n/
+e/
+rw
+aw
+lw
+ .
+Pg
+un
+bu
+l.
+io
+cr
+ g
+L/
+il
+ci
+ec
+ne
+sn
+es
+es/>.
+Also add information on how to contact you by electronic and paper mail.
+  If the program does terminal interaction, make it output a short
+notice like this when it starts in an interactive mode:
+  
+  
+  
+  
+<T
+ph
+ri
+os
+g 
+rp
+ar
+mo
+>g
+ r
+ a
+Cm
+o 
+pc
+yo
+rm
+ie
+gs
+h 
+tw
+ i
+(t
+Ch
+) 
+ A
+<B
+yS
+eO
+aL
+rU
+>T
+ E
+ L
+<Y
+n 
+aN
+mO
+e 
+ W
+oA
+fR
+ R
+aA
+uN
+tT
+hY
+o;
+r 
+>f
+or details type `show w'.
+  
+  
+  
+  
+Tu
+hn
+id
+se
+ r
+i 
+sc
+ e
+fr
+rt
+ea
+ei
+ n
+s 
+oc
+fo
+tn
+wd
+ai
+rt
+ei
+,o
+ n
+as
+n;
+d 
+ t
+yy
+op
+ue
+  
+a`
+rs
+eh
+ o
+ww
+e 
+lc
+c'
+o 
+mf
+eo
+ r
+t 
+od
+ e
+rt
+ea
+di
+il
+ss
+t.
+ribute it
+The hypothetical commands `show w' and `show c' should show the appropriate
+pm
+ai
+rg
+th
+st
+  
+ob
+fe
+  
+td
+hi
+ef
+ f
+Ge
+er
+ne
+en
+rt
+a;
+l 
+ f
+Po
+ur
+b 
+la
+i 
+cG
+ U
+LI
+i 
+ci
+en
+nt
+se
+er
+.f
+ a
+ c
+Oe
+f,
+  
+cy
+oo
+uu
+r 
+sw
+eo
+,u
+ l
+yd
+o 
+uu
+rs
+ e
+p 
+ra
+on
+g 
+r"
+aa
+mb
+'o
+su
+ t
+c 
+ob
+mo
+mx
+a"
+n.
+ds
+  You should also get your employer (if you work as a programmer) or school,
+iF
+fo
+ r
+a 
+nm
+yo
+,r
+ e
+t 
+oi
+ n
+sf
+io
+gr
+nm
+ a
+at
+ i
+"o
+cn
+o 
+po
+yn
+r 
+it
+gh
+hi
+ts
+ ,
+d 
+ia
+sn
+cd
+l 
+ah
+io
+mw
+e 
+rt
+"o
+  
+fa
+op
+rp
+ l
+ty
+h 
+ea
+ n
+pd
+r 
+of
+go
+rl
+al
+mo
+,w
+  
+it
+fh
+ e
+n 
+eG
+cN
+eU
+s 
+sG
+aP
+rL
+y,
+. 
+see
+<https://www.gnu.org/licenses/>.
+ i
+ n
+Tt
+ho
+e 
+ p
+Gr
+No
+Up
+ r
+Gi
+ee
+nt
+ea
+rr
+ay
+l 
+ p
+Pr
+uo
+bg
+lr
+ia
+cm
+ s
+L.
+i 
+c 
+eI
+nf
+s 
+ey
+ o
+du
+or
+e 
+sp
+ r
+no
+og
+tr
+ a
+pm
+e 
+ri
+ms
+i 
+ta
+  
+is
+nu
+cb
+or
+ro
+pu
+ot
+ri
+an
+te
+i 
+nl
+gi
+ b
+yr
+oa
+ur
+ry
+ ,
+p 
+ry
+oo
+gu
+ram
+mt
+ah
+ye
+  
+cl
+oi
+nb
+sr
+ia
+dr
+ey
+r.
+  
+i 
+tI
+ f
+m 
+ot
+rh
+ei
+ s
+u 
+si
+es
+f 
+uw
+lh
+ a
+tt
+o 
+ y
+po
+eu
+r 
+mw
+ia
+tn
+ t
+l 
+it
+no
+k 
+id
+no
+g,
+  
+pu
+rs
+oe
+p 
+rt
+ih
+ee
+t 
+aG
+rN
+yU
+  
+aL
+pe
+ps
+ls
+ie
+cr
+a 
+tG
+ie
+on
+ne
+sr
+ a
+wl
+ith

@@ -1,0 +1,1 @@
+data Direction a = Straight | TurnsLeft | TurnsRight a deriving (Show)
