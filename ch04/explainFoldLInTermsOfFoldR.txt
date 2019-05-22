@@ -1,0 +1,18 @@
+myFoldl f z xs = (foldr step id xs) z
+    where step x g a = g (f a x)
+
+step 1 (foldr step id 2:3:[])
+step 1 (step 2 (foldr step id 3:[]))
+step 1 (step 2 (step 3 (foldr step id [])))
+step 1 (step 2 (step 3 id)))
+step 1 (step 2 (a3 -> id (`+` a3 3)))
+step 1 (a2 -> (a3 -> id (`+` a3 3)) (`+` a2 2))
+(a1 -> (a2 -> (a3 -> id (`+` a3 3)) (`+` a2 2)) (`+` a1 1))
+(a1 -> (a2 -> (a3 -> id (`+` a3 3)) (`+` a2 2)) (`+` a1 1)) 0
+(a2 -> (a3 -> id (`+` a3 3)) (`+` a2 2)) (`+` 0 1))
+(1 -> (a3 -> id (`+` a3 3)) (`+` a2 2)) 1)
+(a3 -> id (`+` a3 3)) (`+` 1 2))
+(3 -> id (`+` a3 3)) 3)
+(id (`+` 3 3))
+(id 6)
+6

@@ -11,10 +11,16 @@ appendToListOrNewGroup (x:xs) e | e == head x = (e:x) : xs
 -- a will be the head of the list
 -- acc will be the update list with the value either appended as a new list or added to an existing list
 appendToListOrNewGroupFoldl :: (Eq a) => [[a]] -> a -> [[a]]
-appendToListOrNewGroupFoldl groupings e = foldr step [[e]] groupings
-                                            where step [] z = z      
-                                                  step grouping z = if e == head grouping then (e:grouping) : init z else (grouping:z)
-                                                  
+appendToListOrNewGroupFoldl groupings e = foldr step [] groupings
+                                            where step grouping [] = [[e]]
+                                                  step grouping z = if e == head grouping then (e:grouping):z else if z == [] then (grouping:[e]:z) else (grouping:z)
 
 myGroupl :: (Eq a) => [a] -> [[a]]
 myGroupl l = foldl appendToListOrNewGroupFoldl [] l
+
+group' :: Eq a => [a] -> [[a]]
+group' = foldr f []
+  where f x []        = [[x]]
+        f x (ys@(y:_):yss)
+          | x == y     = (x:ys):yss
+          | otherwise = [x]:ys:yss
